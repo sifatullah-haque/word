@@ -66,6 +66,21 @@ flutter:
     - assets/
     - assets/familyPage/
     - assets/audio/
+    - assets/Cantonese_Audio/
+    - assets/Cantonese_Audio/Class1/
+    - assets/Cantonese_Audio/Class1/Body/1/
+    - assets/Cantonese_Audio/Class1/Colors/1/
+    - assets/Cantonese_Audio/Class1/Number/0/
+    - assets/Cantonese_Audio/Class1/Direction/0/
+    - assets/Cantonese_Audio/Class1/Family/1/
+    - assets/Cantonese_Audio/Class1/Greetings/1/
+    - assets/Cantonese_Audio/Class1/Taste/1/
+    - assets/Cantonese_Audio/Class1/Taste/2/
+    - assets/Cantonese_Audio/Class1/Time/0/
+    - assets/Cantonese_Audio/Class1/Weather/0/
+
+
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

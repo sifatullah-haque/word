@@ -14,76 +14,106 @@ class _BedroomState extends State<Bedroom> {
   // Define a list of data for your containers
   final List<Map<String, dynamic>> containerData = [
     {
-      'banglaText': 'অ',
-      'englishText': 'Me',
-      'imagePath': 'assets/familyPage/2.jpeg',
-      'audioPath': 'audio/1.mp3'
+      "banglaText": "ছয় ফং",
+      "englishText": "Bedroom",
+      "imagePath": "assets/bedroom/1.jpg",
+      "audioPath": "audio/bedroom/1.mp3"
     },
     {
-      'banglaText': 'লেই',
-      'englishText': 'You',
-      'imagePath': 'assets/familyPage/1.png',
-      'audioPath': 'audio/2.mp3'
+      "banglaText": "পি পি ফং",
+      "englishText": "Baby's room",
+      "imagePath": "assets/bedroom/2.jpg",
+      "audioPath": "audio/bedroom/2.mp3"
     },
     {
-      'banglaText': 'খই',
-      'englishText': 'His/Her',
-      'imagePath': 'assets/familyPage/3.jpeg',
-      'audioPath': 'audio/3.mp3'
+      "banglaText": "চয় মাত ফং",
+      "englishText": "Store room",
+      "imagePath": "assets/bedroom/3.jpg",
+      "audioPath": "audio/bedroom/3.mp3"
     },
     {
-      'banglaText': 'অ তেই',
-      'englishText': 'We/Us',
-      'imagePath': 'assets/familyPage/4.jpeg',
-      'audioPath': 'audio/4.mp3'
+      "banglaText": "ঝং",
+      "englishText": "Bed",
+      "imagePath": "assets/bedroom/4.jpg",
+      "audioPath": "audio/bedroom/4.mp3"
     },
     {
-      'banglaText': 'খই তেই',
-      'englishText': 'They/Their',
-      'imagePath': 'assets/familyPage/5.jpeg',
-      'audioPath': 'audio/5.mp3'
+      "banglaText": "ছংতাউ কেই",
+      "englishText": "Beside cabinet",
+      "imagePath": "assets/bedroom/5.jpg",
+      "audioPath": "audio/bedroom/5.mp3"
     },
     {
-      'banglaText': 'লেই তেই',
-      'englishText': 'You',
-      'imagePath': 'assets/familyPage/1.png',
-      'audioPath': 'audio/2.mp3'
+      "banglaText": "ঝং জুক",
+      "englishText": "Mattress",
+      "imagePath": "assets/bedroom/6.jpg",
+      "audioPath": "audio/bedroom/6.mp3"
     },
     {
-      'banglaText': 'ইয়ে ইয়ে',
-      'englishText': 'Grandfather',
-      'imagePath': 'assets/familyPage/6.jpeg',
-      'audioPath': 'audio/6.mp3'
+      "banglaText": "ঝং তান",
+      "englishText": "Sheet",
+      "imagePath": "assets/bedroom/7.jpg",
+      "audioPath": "audio/bedroom/7.mp3"
     },
     {
-      'banglaText': 'মা মা',
-      'englishText': 'Grandmother',
-      'imagePath': 'assets/familyPage/7.jpeg',
-      'audioPath': 'audio/7.mp3'
+      "banglaText": "চাম থাও",
+      "englishText": "Pillow",
+      "imagePath": "assets/bedroom/8.jpg",
+      "audioPath": "audio/bedroom/8.mp3"
     },
     {
-      'banglaText': 'পা পা',
-      'englishText': 'Father/Dad',
-      'imagePath': 'assets/familyPage/8.jpeg',
-      'audioPath': 'audio/8.mp3'
+      "banglaText": "চাম থাও তয়",
+      "englishText": "Pillowcases",
+      "imagePath": "assets/bedroom/9.jpg",
+      "audioPath": "audio/bedroom/9.mp3"
     },
     {
-      'banglaText': 'চাই',
-      'englishText': 'Son',
-      'imagePath': 'assets/familyPage/9.jpeg',
-      'audioPath': 'audio/9.mp3'
+      "banglaText": "পেই তয়",
+      "englishText": "Quilt Cover",
+      "imagePath": "assets/bedroom/10.jpg",
+      "audioPath": "audio/bedroom/10.mp3"
     },
     {
-      'banglaText': 'লই',
-      'englishText': 'Daugther',
-      'imagePath': 'assets/familyPage/10.jpeg',
-      'audioPath': 'audio/10.mp3'
+      "banglaText": "মিন পেই",
+      "englishText": "Quilt",
+      "imagePath": "assets/bedroom/11.jpg",
+      "audioPath": "audio/bedroom/11.mp3"
     },
     {
-      'banglaText': 'ছাইলো',
-      'englishText': 'Brother',
-      'imagePath': 'assets/familyPage/11.jpeg',
-      'audioPath': 'audio/11.mp3'
+      "banglaText": "মোকান পেই",
+      "englishText": "Towel blanket",
+      "imagePath": "assets/bedroom/12.jpg",
+      "audioPath": "audio/bedroom/12.mp3"
+    },
+    {
+      "banglaText": "ফেই",
+      "englishText": "Blanket",
+      "imagePath": "assets/bedroom/13.jpg",
+      "audioPath": "audio/bedroom/13.mp3"
+    },
+    {
+      "banglaText": "চিপ ফেই",
+      "englishText": "Fold the blanket",
+      "imagePath": "assets/bedroom/14.jpg",
+      "audioPath": "audio/bedroom/14.mp3"
+    },
+    {
+      "banglaText": "জি কোয়াই",
+      "englishText": "Wardrobe",
+      "imagePath": "assets/bedroom/15.jpg",
+      "audioPath": "audio/bedroom/15.mp3"
+    },
+    {
+      "banglaText": "কোয়ই থং",
+      "englishText": "Drawer",
+      "imagePath": "assets/bedroom/16.jpg",
+      "audioPath": "audio/bedroom/16.mp3"
+    },
+    {
+      "banglaText": "ই কা",
+      "englishText": "Hanger",
+      "imagePath": "assets/bedroom/17.jpg",
+      "audioPath": "audio/bedroom/17.mp3"
     },
   ];
   AudioPlayer? audioPlayer;

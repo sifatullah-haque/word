@@ -14,76 +14,64 @@ class _BodyCareState extends State<BodyCare> {
   // Define a list of data for your containers
   final List<Map<String, dynamic>> containerData = [
     {
-      'banglaText': 'অ',
-      'englishText': 'Me',
+      'banglaText': 'ছাই মিন',
+      'englishText': 'Wash Face',
       'imagePath': 'assets/familyPage/2.jpeg',
       'audioPath': 'audio/1.mp3'
     },
     {
-      'banglaText': 'লেই',
-      'englishText': 'You',
+      'banglaText': 'ছাই ছাউ',
+      'englishText': 'Wash Hand',
       'imagePath': 'assets/familyPage/1.png',
       'audioPath': 'audio/2.mp3'
     },
     {
-      'banglaText': 'খই',
-      'englishText': 'His/Her',
+      'banglaText': 'ঝাত আ',
+      'englishText': 'Brush Teeth',
       'imagePath': 'assets/familyPage/3.jpeg',
       'audioPath': 'audio/3.mp3'
     },
     {
-      'banglaText': 'অ তেই',
-      'englishText': 'We/Us',
+      'banglaText': 'মাত ছান',
+      'englishText': 'Wipe your body',
       'imagePath': 'assets/familyPage/4.jpeg',
       'audioPath': 'audio/4.mp3'
     },
     {
-      'banglaText': 'খই তেই',
-      'englishText': 'They/Their',
+      'banglaText': 'মাত হন',
+      'englishText': 'Dry your body',
       'imagePath': 'assets/familyPage/5.jpeg',
       'audioPath': 'audio/5.mp3'
     },
     {
-      'banglaText': 'লেই তেই',
-      'englishText': 'You',
-      'imagePath': 'assets/familyPage/1.png',
-      'audioPath': 'audio/2.mp3'
-    },
-    {
-      'banglaText': 'ইয়ে ইয়ে',
-      'englishText': 'Grandfather',
+      'banglaText': 'মাত চই',
+      'englishText': 'Wipe your mouth',
       'imagePath': 'assets/familyPage/6.jpeg',
       'audioPath': 'audio/6.mp3'
     },
     {
-      'banglaText': 'মা মা',
-      'englishText': 'Grandmother',
+      'banglaText': 'ছাই সাম',
+      'englishText': 'Wash the clothes',
       'imagePath': 'assets/familyPage/7.jpeg',
       'audioPath': 'audio/7.mp3'
     },
     {
-      'banglaText': 'পা পা',
-      'englishText': 'Father/Dad',
+      'banglaText': 'চিন চি ক্যাপ',
+      'englishText': 'Trim your nails',
       'imagePath': 'assets/familyPage/8.jpeg',
       'audioPath': 'audio/8.mp3'
     },
     {
-      'banglaText': 'চাই',
-      'englishText': 'Son',
+      'banglaText': 'চিন থাউফাত',
+      'englishText': 'Haircut',
       'imagePath': 'assets/familyPage/9.jpeg',
       'audioPath': 'audio/9.mp3'
     },
     {
-      'banglaText': 'লই',
-      'englishText': 'Daugther',
+      'banglaText': 'সয়ং ফু ক',
+      'englishText': 'Moisturizing cream',
       'imagePath': 'assets/familyPage/10.jpeg',
       'audioPath': 'audio/10.mp3'
-    },
-    {
-      'banglaText': 'ছাইলো',
-      'englishText': 'Brother',
-      'imagePath': 'assets/familyPage/11.jpeg',
-      'audioPath': 'audio/11.mp3'
     },
   ];
   AudioPlayer? audioPlayer;

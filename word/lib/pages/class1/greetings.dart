@@ -14,76 +14,76 @@ class _GreetingsState extends State<Greetings> {
   // Define a list of data for your containers
   final List<Map<String, dynamic>> containerData = [
     {
-      'banglaText': 'অ',
-      'englishText': 'Me',
+      'banglaText': 'সান লিন ফাই লক',
+      'englishText': 'Happy new year',
       'imagePath': 'assets/familyPage/2.jpeg',
       'audioPath': 'audio/1.mp3'
     },
     {
-      'banglaText': 'লেই',
-      'englishText': 'You',
+      'banglaText': 'সান ইয়াত ফাই লক',
+      'englishText': 'Happy Birthday',
       'imagePath': 'assets/familyPage/1.png',
       'audioPath': 'audio/2.mp3'
     },
     {
-      'banglaText': 'খই',
-      'englishText': 'His/Her',
+      'banglaText': 'লেই হোমা',
+      'englishText': 'How are you?',
       'imagePath': 'assets/familyPage/3.jpeg',
       'audioPath': 'audio/3.mp3'
     },
     {
-      'banglaText': 'অ তেই',
-      'englishText': 'We/Us',
+      'banglaText': 'ইয়াপ লেই',
+      'englishText': 'Come in',
       'imagePath': 'assets/familyPage/4.jpeg',
       'audioPath': 'audio/4.mp3'
     },
     {
-      'banglaText': 'খই তেই',
-      'englishText': 'They/Their',
+      'banglaText': 'ঊমকয় ছাই',
+      'englishText': 'Welcome',
       'imagePath': 'assets/familyPage/5.jpeg',
       'audioPath': 'audio/5.mp3'
     },
     {
-      'banglaText': 'লেই তেই',
-      'englishText': 'You',
-      'imagePath': 'assets/familyPage/1.png',
-      'audioPath': 'audio/2.mp3'
-    },
-    {
-      'banglaText': 'ইয়ে ইয়ে',
-      'englishText': 'Grandfather',
+      'banglaText': 'তো চে সাই',
+      'englishText': 'Thank you',
       'imagePath': 'assets/familyPage/6.jpeg',
       'audioPath': 'audio/6.mp3'
     },
     {
-      'banglaText': 'মা মা',
-      'englishText': 'Grandmother',
+      'banglaText': 'চয় কিণ',
+      'englishText': 'Goodbye',
       'imagePath': 'assets/familyPage/7.jpeg',
       'audioPath': 'audio/7.mp3'
     },
     {
-      'banglaText': 'পা পা',
-      'englishText': 'Father/Dad',
+      'banglaText': 'মান মান',
+      'englishText': 'Go slow',
       'imagePath': 'assets/familyPage/8.jpeg',
       'audioPath': 'audio/8.mp3'
     },
     {
-      'banglaText': 'চাই',
-      'englishText': 'Son',
+      'banglaText': 'তয়োম চি',
+      'englishText': 'Sorry',
       'imagePath': 'assets/familyPage/9.jpeg',
       'audioPath': 'audio/9.mp3'
     },
     {
-      'banglaText': 'লই',
-      'englishText': 'Daugther',
+      'banglaText': 'মই ই  ছি',
+      'englishText': 'Never mind',
       'imagePath': 'assets/familyPage/10.jpeg',
       'audioPath': 'audio/10.mp3'
     },
     {
-      'banglaText': 'ছাইলো',
-      'englishText': 'Brother',
+      'banglaText': 'উম কয়',
+      'englishText': 'Thank you',
       'imagePath': 'assets/familyPage/11.jpeg',
       'audioPath': 'audio/11.mp3'
+    },
+    {
+      'banglaText': 'উম সাই হা হে',
+      'englishText': 'You are welcome',
+      'imagePath': 'assets/familyPage/12.jpeg',
+      'audioPath': 'audio/12.mp3'
     },
   ];
   AudioPlayer? audioPlayer;

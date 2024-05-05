@@ -14,76 +14,76 @@ class _FamilyPageState extends State<ElectricalAppliance> {
   // Define a list of data for your containers
   final List<Map<String, dynamic>> containerData = [
     {
-      'banglaText': 'অ',
-      'englishText': 'Me',
-      'imagePath': 'assets/familyPage/2.jpeg',
-      'audioPath': 'audio/1.mp3'
+      "banglaText": "খাপ ঝান কেই",
+      "englishText": "Vacuum cleaner",
+      "imagePath": "assets/household/1.jpg",
+      "audioPath": "audio/household/1.mp3"
     },
     {
-      'banglaText': 'লেই',
-      'englishText': 'You',
-      'imagePath': 'assets/familyPage/1.png',
-      'audioPath': 'audio/2.mp3'
+      "banglaText": "ছাই ই কেই",
+      "englishText": "Washing Machine",
+      "imagePath": "assets/household/2.jpg",
+      "audioPath": "audio/household/2.mp3"
     },
     {
-      'banglaText': 'খই',
-      'englishText': 'His/Her',
-      'imagePath': 'assets/familyPage/3.jpeg',
-      'audioPath': 'audio/3.mp3'
+      "banglaText": "ছাই ই ফান",
+      "englishText": "Washing powder",
+      "imagePath": "assets/household/3.jpg",
+      "audioPath": "audio/household/3.mp3"
     },
     {
-      'banglaText': 'অ তেই',
-      'englishText': 'We/Us',
-      'imagePath': 'assets/familyPage/4.jpeg',
-      'audioPath': 'audio/4.mp3'
+      "banglaText": "কন ই কেই",
+      "englishText": "Dryers",
+      "imagePath": "assets/household/4.jpg",
+      "audioPath": "audio/household/4.mp3"
     },
     {
-      'banglaText': 'খই তেই',
-      'englishText': 'They/Their',
-      'imagePath': 'assets/familyPage/5.jpeg',
-      'audioPath': 'audio/5.mp3'
+      "banglaText": "থং সাম পান",
+      "englishText": "Ironing Board",
+      "imagePath": "assets/household/5.jpg",
+      "audioPath": "audio/household/5.mp3"
     },
     {
-      'banglaText': 'লেই তেই',
-      'englishText': 'You',
-      'imagePath': 'assets/familyPage/1.png',
-      'audioPath': 'audio/2.mp3'
+      "banglaText": "থং তাও",
+      "englishText": "Iron",
+      "imagePath": "assets/household/6.jpg",
+      "audioPath": "audio/household/6.mp3"
     },
     {
-      'banglaText': 'ইয়ে ইয়ে',
-      'englishText': 'Grandfather',
-      'imagePath': 'assets/familyPage/6.jpeg',
-      'audioPath': 'audio/6.mp3'
+      "banglaText": "চেং হেই  থং তাও",
+      "englishText": "Stream Iron",
+      "imagePath": "assets/household/7.jpg",
+      "audioPath": "audio/household/7.mp3"
     },
     {
-      'banglaText': 'মা মা',
-      'englishText': 'Grandmother',
-      'imagePath': 'assets/familyPage/7.jpeg',
-      'audioPath': 'audio/7.mp3'
+      "banglaText": "সাউ চাম কেই",
+      "englishText": "Radio",
+      "imagePath": "assets/household/8.jpg",
+      "audioPath": "audio/household/8.mp3"
     },
     {
-      'banglaText': 'পা পা',
-      'englishText': 'Father/Dad',
-      'imagePath': 'assets/familyPage/8.jpeg',
-      'audioPath': 'audio/8.mp3'
+      "banglaText": "সাউ  তাই তিন অয়া",
+      "englishText": "Mobile phone",
+      "imagePath": "assets/household/9.jpg",
+      "audioPath": "audio/household/9.mp3"
     },
     {
-      'banglaText': 'চাই',
-      'englishText': 'Son',
-      'imagePath': 'assets/familyPage/9.jpeg',
-      'audioPath': 'audio/9.mp3'
+      "banglaText": "চা তিন হেই",
+      "englishText": "Charger",
+      "imagePath": "assets/household/10.jpg",
+      "audioPath": "audio/household/10.mp3"
     },
     {
-      'banglaText': 'লই',
-      'englishText': 'Daugther',
-      'imagePath': 'assets/familyPage/10.jpeg',
-      'audioPath': 'audio/10.mp3'
+      "banglaText": "তিন চি",
+      "englishText": "Battery",
+      "imagePath": "assets/household/11.jpg",
+      "audioPath": "audio/household/11.mp3"
     },
     {
-      'banglaText': 'ছাইলো',
-      'englishText': 'Brother',
-      'imagePath': 'assets/familyPage/11.jpeg',
-      'audioPath': 'audio/11.mp3'
+      "banglaText": "সইয়ং কেই",
+      "englishText": "Camera",
+      "imagePath": "assets/household/12.jpg",
+      "audioPath": "audio/household/12.mp3"
     },
   ];
   AudioPlayer? audioPlayer;

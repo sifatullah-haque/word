@@ -14,76 +14,142 @@ class _FamilyPageState extends State<Sickness> {
   // Define a list of data for your containers
   final List<Map<String, dynamic>> containerData = [
     {
-      'banglaText': 'অ',
-      'englishText': 'Me',
-      'imagePath': 'assets/familyPage/2.jpeg',
-      'audioPath': 'audio/1.mp3'
+      "banglaText": "অ পেং চ",
+      "englishText": "I am sick",
+      "imagePath": "assets/health/1.jpg",
+      "audioPath": "audio/health/1.mp3"
     },
     {
-      'banglaText': 'লেই',
-      'englishText': 'You',
-      'imagePath': 'assets/familyPage/1.png',
-      'audioPath': 'audio/2.mp3'
+      "banglaText": "হউ কুইয়া",
+      "englishText": "So tired",
+      "imagePath": "assets/health/2.jpg",
+      "audioPath": "audio/health/2.mp3"
     },
     {
-      'banglaText': 'খই',
-      'englishText': 'His/Her',
-      'imagePath': 'assets/familyPage/3.jpeg',
-      'audioPath': 'audio/3.mp3'
+      "banglaText": "থাই ই সান",
+      "englishText": "Visit the doctor",
+      "imagePath": "assets/health/3.jpg",
+      "audioPath": "audio/health/3.mp3"
     },
     {
-      'banglaText': 'অ তেই',
-      'englishText': 'We/Us',
-      'imagePath': 'assets/familyPage/4.jpeg',
-      'audioPath': 'audio/4.mp3'
+      "banglaText": "পেং হউ",
+      "englishText": "Getting better",
+      "imagePath": "assets/health/4.jpg",
+      "audioPath": "audio/health/4.mp3"
     },
     {
-      'banglaText': 'খই তেই',
-      'englishText': 'They/Their',
-      'imagePath': 'assets/familyPage/5.jpeg',
-      'audioPath': 'audio/5.mp3'
+      "banglaText": "হউ থং",
+      "englishText": "Pain",
+      "imagePath": "assets/health/5.jpg",
+      "audioPath": "audio/health/5.mp3"
     },
     {
-      'banglaText': 'লেই তেই',
-      'englishText': 'You',
-      'imagePath': 'assets/familyPage/1.png',
-      'audioPath': 'audio/2.mp3'
+      "banglaText": "থাউ থং",
+      "englishText": "Headache",
+      "imagePath": "assets/health/6.jpg",
+      "audioPath": "audio/health/6.mp3"
     },
     {
-      'banglaText': 'ইয়ে ইয়ে',
-      'englishText': 'Grandfather',
-      'imagePath': 'assets/familyPage/6.jpeg',
-      'audioPath': 'audio/6.mp3'
+      "banglaText": "থাউ ওয়ান",
+      "englishText": "Dizzy",
+      "imagePath": "assets/health/7.jpg",
+      "audioPath": "audio/health/7.mp3"
     },
     {
-      'banglaText': 'মা মা',
-      'englishText': 'Grandmother',
-      'imagePath': 'assets/familyPage/7.jpeg',
-      'audioPath': 'audio/7.mp3'
+      "banglaText": "আউ",
+      "englishText": "Vomit/Throw up",
+      "imagePath": "assets/health/8.jpg",
+      "audioPath": "audio/health/8.mp3"
     },
     {
-      'banglaText': 'পা পা',
-      'englishText': 'Father/Dad',
-      'imagePath': 'assets/familyPage/8.jpeg',
-      'audioPath': 'audio/8.mp3'
+      "banglaText": "ফাত সিউ",
+      "englishText": "Fever",
+      "imagePath": "assets/health/9.jpg",
+      "audioPath": "audio/health/9.mp3"
     },
     {
-      'banglaText': 'চাই',
-      'englishText': 'Son',
-      'imagePath': 'assets/familyPage/9.jpeg',
-      'audioPath': 'audio/9.mp3'
+      "banglaText": "কাম মো",
+      "englishText": "Cold",
+      "imagePath": "assets/health/10.jpg",
+      "audioPath": "audio/health/10.mp3"
     },
     {
-      'banglaText': 'লই',
-      'englishText': 'Daugther',
-      'imagePath': 'assets/familyPage/10.jpeg',
-      'audioPath': 'audio/10.mp3'
+      "banglaText": "লাউ পেই সয়",
+      "englishText": "Runny nose",
+      "imagePath": "assets/health/11.jpg",
+      "audioPath": "audio/health/11.mp3"
     },
     {
-      'banglaText': 'ছাইলো',
-      'englishText': 'Brother',
-      'imagePath': 'assets/familyPage/11.jpeg',
-      'audioPath': 'audio/11.mp3'
+      "banglaText": "না আ",
+      "englishText": "Toothache",
+      "imagePath": "assets/health/12.jpg",
+      "audioPath": "audio/health/12.mp3"
+    },
+    {
+      "banglaText": "খাত",
+      "englishText": "Cough",
+      "imagePath": "assets/health/13.jpg",
+      "audioPath": "audio/health/13.mp3"
+    },
+    {
+      "banglaText": "নাআ সয়",
+      "englishText": "Sputum",
+      "imagePath": "assets/health/14.jpg",
+      "audioPath": "audio/health/14.mp3"
+    },
+    {
+      "banglaText": "লাউ হুত",
+      "englishText": "Bleeding",
+      "imagePath": "assets/health/15.jpg",
+      "audioPath": "audio/health/15.mp3"
+    },
+    {
+      "banglaText": "লাউ পেই হুত",
+      "englishText": "Nosebleed",
+      "imagePath": "assets/health/16.jpg",
+      "audioPath": "audio/health/16.mp3"
+    },
+    {
+      "banglaText": "থউ থং",
+      "englishText": "Abdominal pain",
+      "imagePath": "assets/health/17.jpg",
+      "audioPath": "audio/health/17.mp3"
+    },
+    {
+      "banglaText": "থউ অ",
+      "englishText": "Belly defecate",
+      "imagePath": "assets/health/18.jpg",
+      "audioPath": "audio/health/18.mp3"
+    },
+    {
+      "banglaText": "হান",
+      "englishText": "Scar",
+      "imagePath": "assets/health/19.jpg",
+      "audioPath": "audio/health/19.mp3"
+    },
+    {
+      "banglaText": "ইয়ুত কেয়ং",
+      "englishText": "Menstruation",
+      "imagePath": "assets/health/20.jpg",
+      "audioPath": "audio/health/20.mp3"
+    },
+    {
+      "banglaText": "তিত চ",
+      "englishText": "Fall down",
+      "imagePath": "assets/health/21.jpg",
+      "audioPath": "audio/health/21.mp3"
+    },
+    {
+      "banglaText": "সেক ইয়ক",
+      "englishText": "Take medicine",
+      "imagePath": "assets/health/22.jpg",
+      "audioPath": "audio/health/22.mp3"
+    },
+    {
+      "banglaText": "কাম ইয়ক সয়",
+      "englishText": "Medicine liquid",
+      "imagePath": "assets/health/23.jpg",
+      "audioPath": "audio/health/23.mp3"
     },
   ];
   AudioPlayer? audioPlayer;

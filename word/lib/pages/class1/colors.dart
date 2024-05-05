@@ -14,76 +14,106 @@ class _ColorsPageState extends State<ColorsPage> {
   // Define a list of data for your containers
   final List<Map<String, dynamic>> containerData = [
     {
-      'banglaText': 'অ',
-      'englishText': 'Me',
+      'banglaText': 'আন ছেক',
+      'englishText': 'Color',
       'imagePath': 'assets/familyPage/2.jpeg',
       'audioPath': 'audio/1.mp3'
     },
     {
-      'banglaText': 'লেই',
-      'englishText': 'You',
+      'banglaText': 'ছয় ছেক',
+      'englishText': 'Colorful',
       'imagePath': 'assets/familyPage/1.png',
       'audioPath': 'audio/2.mp3'
     },
     {
-      'banglaText': 'খই',
-      'englishText': 'His/Her',
+      'banglaText': 'হাক ছেক',
+      'englishText': 'Black',
       'imagePath': 'assets/familyPage/3.jpeg',
       'audioPath': 'audio/3.mp3'
     },
     {
-      'banglaText': 'অ তেই',
-      'englishText': 'We/Us',
+      'banglaText': 'পা   ছেক',
+      'englishText': 'White',
       'imagePath': 'assets/familyPage/4.jpeg',
       'audioPath': 'audio/4.mp3'
     },
     {
-      'banglaText': 'খই তেই',
-      'englishText': 'They/Their',
+      'banglaText': 'ফুই ছেক',
+      'englishText': 'Grey',
       'imagePath': 'assets/familyPage/5.jpeg',
       'audioPath': 'audio/5.mp3'
     },
     {
-      'banglaText': 'লেই তেই',
-      'englishText': 'You',
-      'imagePath': 'assets/familyPage/1.png',
-      'audioPath': 'audio/2.mp3'
-    },
-    {
-      'banglaText': 'ইয়ে ইয়ে',
-      'englishText': 'Grandfather',
+      'banglaText': 'হোং ছেক',
+      'englishText': 'Red',
       'imagePath': 'assets/familyPage/6.jpeg',
       'audioPath': 'audio/6.mp3'
     },
     {
-      'banglaText': 'মা মা',
-      'englishText': 'Grandmother',
+      'banglaText': 'ঝাং ছেক',
+      'englishText': 'Orange',
       'imagePath': 'assets/familyPage/7.jpeg',
       'audioPath': 'audio/7.mp3'
     },
     {
-      'banglaText': 'পা পা',
-      'englishText': 'Father/Dad',
+      'banglaText': 'ওয়াং ছেক',
+      'englishText': 'Yellow',
       'imagePath': 'assets/familyPage/8.jpeg',
       'audioPath': 'audio/8.mp3'
     },
     {
-      'banglaText': 'চাই',
-      'englishText': 'Son',
+      'banglaText': 'ফুই ছেক',
+      'englishText': 'Grey',
       'imagePath': 'assets/familyPage/9.jpeg',
       'audioPath': 'audio/9.mp3'
     },
     {
-      'banglaText': 'লই',
-      'englishText': 'Daugther',
+      'banglaText': 'লাম ছেক',
+      'englishText': 'Blue',
       'imagePath': 'assets/familyPage/10.jpeg',
       'audioPath': 'audio/10.mp3'
     },
     {
-      'banglaText': 'ছাইলো',
-      'englishText': 'Brother',
+      'banglaText': 'চি ছেক',
+      'englishText': 'Purple',
       'imagePath': 'assets/familyPage/11.jpeg',
       'audioPath': 'audio/11.mp3'
+    },
+    {
+      'banglaText': 'ছাম  ছেক',
+      'englishText': 'Dark',
+      'imagePath': 'assets/familyPage/12.jpeg',
+      'audioPath': 'audio/12.mp3'
+    },
+    {
+      'banglaText': 'ছিন ছেক',
+      'englishText': 'Light',
+      'imagePath': 'assets/familyPage/13.jpeg',
+      'audioPath': 'audio/13.mp3'
+    },
+    {
+      'banglaText': 'কাম ছেক',
+      'englishText': 'Gold',
+      'imagePath': 'assets/familyPage/14.jpeg',
+      'audioPath': 'audio/14.mp3'
+    },
+    {
+      'banglaText': 'নান ছেক',
+      'englishText': 'Silver',
+      'imagePath': 'assets/familyPage/15.jpeg',
+      'audioPath': 'audio/15.mp3'
+    },
+    {
+      'banglaText': 'ফান হং ছেক',
+      'englishText': 'Pink',
+      'imagePath': 'assets/familyPage/16.jpeg',
+      'audioPath': 'audio/16.mp3'
+    },
+    {
+      'banglaText': 'ফেই ছেক',
+      'englishText': 'Brown',
+      'imagePath': 'assets/familyPage/17.jpeg',
+      'audioPath': 'audio/17.mp3'
     },
   ];
   AudioPlayer? audioPlayer;

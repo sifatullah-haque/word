@@ -56,7 +56,7 @@ class _FamilyPageState extends State<FamilyPage> {
       'audioPath': 'audio/6.mp3'
     },
     {
-      'banglaText': 'মা মা',
+      'banglaText': 'ফো ফো/মা মা',
       'englishText': 'Grandmother',
       'imagePath': 'assets/familyPage/7.jpeg',
       'audioPath': 'audio/7.mp3'
@@ -68,22 +68,64 @@ class _FamilyPageState extends State<FamilyPage> {
       'audioPath': 'audio/8.mp3'
     },
     {
-      'banglaText': 'চাই',
-      'englishText': 'Son',
+      'banglaText': 'মা মা',
+      'englishText': 'Mother/Mom',
       'imagePath': 'assets/familyPage/9.jpeg',
       'audioPath': 'audio/9.mp3'
     },
     {
-      'banglaText': 'লই',
-      'englishText': 'Daugther',
+      'banglaText': 'চাই',
+      'englishText': 'Son',
       'imagePath': 'assets/familyPage/10.jpeg',
       'audioPath': 'audio/10.mp3'
     },
     {
-      'banglaText': 'ছাইলো',
-      'englishText': 'Brother',
+      'banglaText': 'লই',
+      'englishText': 'Daughter',
       'imagePath': 'assets/familyPage/11.jpeg',
       'audioPath': 'audio/11.mp3'
+    },
+    {
+      'banglaText': 'কো কো /ছাইলো',
+      'englishText': 'Elder Brother',
+      'imagePath': 'assets/familyPage/12.jpeg',
+      'audioPath': 'audio/12.mp3'
+    },
+    {
+      'banglaText': 'ছিউচে / সাই মুই',
+      'englishText': 'Elder Sister',
+      'imagePath': 'assets/familyPage/13.jpeg',
+      'audioPath': 'audio/13.mp3'
+    },
+    {
+      'banglaText': 'সিং সান',
+      'englishText': 'Sir',
+      'imagePath': 'assets/familyPage/14.jpeg',
+      'audioPath': 'audio/14.mp3'
+    },
+    {
+      'banglaText': 'থাই থাই',
+      'englishText': 'Madam',
+      'imagePath': 'assets/familyPage/15.jpeg',
+      'audioPath': 'audio/15.mp3'
+    },
+    {
+      'banglaText': 'সুই ইয়ে',
+      'englishText': 'Sir (Younger)',
+      'imagePath': 'assets/familyPage/16.jpeg',
+      'audioPath': 'audio/16.mp3'
+    },
+    {
+      'banglaText': 'ছিউচে',
+      'englishText': 'Miss',
+      'imagePath': 'assets/familyPage/17.jpeg',
+      'audioPath': 'audio/17.mp3'
+    },
+    {
+      'banglaText': 'কু চ্যুই',
+      'englishText': 'Employee',
+      'imagePath': 'assets/familyPage/18.jpeg',
+      'audioPath': 'audio/18.mp3'
     },
   ];
   AudioPlayer? audioPlayer;

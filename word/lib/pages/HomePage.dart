@@ -11,6 +11,7 @@ import 'package:word/pages/class1/directions.dart';
 import 'package:word/pages/class1/familyPage.dart';
 import 'package:word/pages/class1/greetings.dart';
 import 'package:word/pages/class1/number_page.dart';
+import 'package:word/pages/class1/taste.dart';
 import 'package:word/pages/searchPage.dart';
 import 'package:word/pages/class1/time.dart';
 import 'package:word/pages/class1/weather.dart';
@@ -117,7 +118,7 @@ class HomePage extends StatelessWidget {
             Expanded(
               flex: 10,
               child: GridView.builder(
-                itemCount: 33, // Number of containers/pages
+                itemCount: 34, // Number of containers/pages
                 gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
                   crossAxisCount: 3,
                 ),
@@ -343,6 +344,12 @@ class HomePage extends StatelessWidget {
                                 builder: (context) => SimpleConversation()),
                           );
                           break;
+                        case 33:
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(builder: (context) => Taste()),
+                          );
+                          break;
                       }
                     },
                     child: Container(
@@ -444,6 +451,8 @@ class HomePage extends StatelessWidget {
         return "Verb";
       case 32:
         return "Simple\nConvo";
+      case 33:
+        return "Taste";
 
       default:
         return "Text $index"; // Placeholder text for additional containers

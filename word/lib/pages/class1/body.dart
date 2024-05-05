@@ -14,76 +14,118 @@ class _BodyState extends State<Body> {
   // Define a list of data for your containers
   final List<Map<String, dynamic>> containerData = [
     {
-      'banglaText': 'অ',
-      'englishText': 'Me',
+      'banglaText': 'থাউ',
+      'englishText': 'Head',
       'imagePath': 'assets/familyPage/2.jpeg',
       'audioPath': 'audio/1.mp3'
     },
     {
-      'banglaText': 'লেই',
-      'englishText': 'You',
+      'banglaText': 'থাউ ফাত',
+      'englishText': 'Hair',
       'imagePath': 'assets/familyPage/1.png',
       'audioPath': 'audio/2.mp3'
     },
     {
-      'banglaText': 'খই',
-      'englishText': 'His/Her',
+      'banglaText': 'মিন',
+      'englishText': 'Face',
       'imagePath': 'assets/familyPage/3.jpeg',
       'audioPath': 'audio/3.mp3'
     },
     {
-      'banglaText': 'অ তেই',
-      'englishText': 'We/Us',
+      'banglaText': 'আন',
+      'englishText': 'Eye',
       'imagePath': 'assets/familyPage/4.jpeg',
       'audioPath': 'audio/4.mp3'
     },
     {
-      'banglaText': 'খই তেই',
-      'englishText': 'They/Their',
+      'banglaText': 'ই চাই',
+      'englishText': 'Ears',
       'imagePath': 'assets/familyPage/5.jpeg',
       'audioPath': 'audio/5.mp3'
     },
     {
-      'banglaText': 'লেই তেই',
-      'englishText': 'You',
-      'imagePath': 'assets/familyPage/1.png',
-      'audioPath': 'audio/2.mp3'
-    },
-    {
-      'banglaText': 'ইয়ে ইয়ে',
-      'englishText': 'Grandfather',
+      'banglaText': 'হাউ',
+      'englishText': 'Mouth',
       'imagePath': 'assets/familyPage/6.jpeg',
       'audioPath': 'audio/6.mp3'
     },
     {
-      'banglaText': 'মা মা',
-      'englishText': 'Grandmother',
+      'banglaText': 'চৈ ই',
+      'englishText': 'Lips',
       'imagePath': 'assets/familyPage/7.jpeg',
       'audioPath': 'audio/7.mp3'
     },
     {
-      'banglaText': 'পা পা',
-      'englishText': 'Father/Dad',
+      'banglaText': 'আ ঙ',
+      'englishText': 'Tooth',
       'imagePath': 'assets/familyPage/8.jpeg',
       'audioPath': 'audio/8.mp3'
     },
     {
-      'banglaText': 'চাই',
-      'englishText': 'Son',
+      'banglaText': 'লেই',
+      'englishText': 'Tongue',
       'imagePath': 'assets/familyPage/9.jpeg',
       'audioPath': 'audio/9.mp3'
     },
     {
-      'banglaText': 'লই',
-      'englishText': 'Daugther',
+      'banglaText': 'হাউ লং',
+      'englishText': 'Throat',
       'imagePath': 'assets/familyPage/10.jpeg',
       'audioPath': 'audio/10.mp3'
     },
     {
-      'banglaText': 'ছাইলো',
-      'englishText': 'Brother',
-      'imagePath': 'assets/familyPage/11.jpeg',
-      'audioPath': 'audio/11.mp3'
+      'banglaText': 'পেই কো',
+      'englishText': 'Nose',
+      'imagePath': 'assets/familyPage/2.jpeg',
+      'audioPath': 'audio/1.mp3'
+    },
+    {
+      'banglaText': 'কেয়ং',
+      'englishText': 'Neck',
+      'imagePath': 'assets/familyPage/1.png',
+      'audioPath': 'audio/2.mp3'
+    },
+    {
+      'banglaText': 'ছাউ',
+      'englishText': 'Hand',
+      'imagePath': 'assets/familyPage/3.jpeg',
+      'audioPath': 'audio/3.mp3'
+    },
+    {
+      'banglaText': 'ছাউ চি',
+      'englishText': 'Finger',
+      'imagePath': 'assets/familyPage/4.jpeg',
+      'audioPath': 'audio/4.mp3'
+    },
+    {
+      'banglaText': 'চি ক্যাপ',
+      'englishText': 'Fingernail',
+      'imagePath': 'assets/familyPage/5.jpeg',
+      'audioPath': 'audio/5.mp3'
+    },
+    {
+      'banglaText': 'ওয়াই',
+      'englishText': 'Stomach',
+      'imagePath': 'assets/familyPage/6.jpeg',
+      'audioPath': 'audio/6.mp3'
+    },
+    {
+      'banglaText': 'থৌ',
+      'englishText': 'Belly',
+      'imagePath': 'assets/familyPage/7.jpeg',
+      'audioPath': 'audio/7.mp3'
+    },
+    {
+      'banglaText': 'কয়োক',
+      'englishText': 'Foot',
+      'imagePath': 'assets/familyPage/8.jpeg',
+      'audioPath': 'audio/8.mp3'
+    },
+    {
+      'banglaText': 'কয়োক চি',
+      'englishText': 'Toes',
+      'imagePath': 'assets/familyPage/9.jpeg',
+      'audioPath': 'audio/9.mp3'
     },
   ];
   AudioPlayer? audioPlayer;

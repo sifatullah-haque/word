@@ -14,77 +14,53 @@ class _FamilyPageState extends State<SoupBases> {
   // Define a list of data for your containers
   final List<Map<String, dynamic>> containerData = [
     {
-      'banglaText': 'অ',
-      'englishText': 'Me',
-      'imagePath': 'assets/familyPage/2.jpeg',
-      'audioPath': 'audio/1.mp3'
+      "banglaText": "ফা সাং",
+      "englishText": "Peanut",
+      "imagePath": "assets/foods/1.jpg",
+      "audioPath": "audio/foods/1.mp3"
     },
     {
-      'banglaText': 'লেই',
-      'englishText': 'You',
-      'imagePath': 'assets/familyPage/1.png',
-      'audioPath': 'audio/2.mp3'
+      "banglaText": "ওং তাউ",
+      "englishText": "Soy beans",
+      "imagePath": "assets/foods/2.jpg",
+      "audioPath": "audio/foods/2.mp3"
     },
     {
-      'banglaText': 'খই',
-      'englishText': 'His/Her',
-      'imagePath': 'assets/familyPage/3.jpeg',
-      'audioPath': 'audio/3.mp3'
+      "banglaText": "হোং তাঊ",
+      "englishText": "Red beans",
+      "imagePath": "assets/foods/3.jpg",
+      "audioPath": "audio/foods/3.mp3"
     },
     {
-      'banglaText': 'অ তেই',
-      'englishText': 'We/Us',
-      'imagePath': 'assets/familyPage/4.jpeg',
-      'audioPath': 'audio/4.mp3'
+      "banglaText": "কন হউ চি",
+      "englishText": "Dry oyster",
+      "imagePath": "assets/foods/4.jpg",
+      "audioPath": "audio/foods/4.mp3"
     },
     {
-      'banglaText': 'খই তেই',
-      'englishText': 'They/Their',
-      'imagePath': 'assets/familyPage/5.jpeg',
-      'audioPath': 'audio/5.mp3'
+      "banglaText": "হোং চৌ",
+      "englishText": "Red date",
+      "imagePath": "assets/foods/5.jpg",
+      "audioPath": "audio/foods/5.mp3"
     },
     {
-      'banglaText': 'লেই তেই',
-      'englishText': 'You',
-      'imagePath': 'assets/familyPage/1.png',
-      'audioPath': 'audio/2.mp3'
+      "banglaText": "মাত চৌ",
+      "englishText": "Preserved date",
+      "imagePath": "assets/foods/6.jpg",
+      "audioPath": "audio/foods/6.mp3"
     },
     {
-      'banglaText': 'ইয়ে ইয়ে',
-      'englishText': 'Grandfather',
-      'imagePath': 'assets/familyPage/6.jpeg',
-      'audioPath': 'audio/6.mp3'
+      "banglaText": "কৌ",
+      "englishText": "Fruit skin",
+      "imagePath": "assets/foods/7.jpg",
+      "audioPath": "audio/foods/7.mp3"
     },
     {
-      'banglaText': 'মা মা',
-      'englishText': 'Grandmother',
-      'imagePath': 'assets/familyPage/7.jpeg',
-      'audioPath': 'audio/7.mp3'
-    },
-    {
-      'banglaText': 'পা পা',
-      'englishText': 'Father/Dad',
-      'imagePath': 'assets/familyPage/8.jpeg',
-      'audioPath': 'audio/8.mp3'
-    },
-    {
-      'banglaText': 'চাই',
-      'englishText': 'Son',
-      'imagePath': 'assets/familyPage/9.jpeg',
-      'audioPath': 'audio/9.mp3'
-    },
-    {
-      'banglaText': 'লই',
-      'englishText': 'Daugther',
-      'imagePath': 'assets/familyPage/10.jpeg',
-      'audioPath': 'audio/10.mp3'
-    },
-    {
-      'banglaText': 'ছাইলো',
-      'englishText': 'Brother',
-      'imagePath': 'assets/familyPage/11.jpeg',
-      'audioPath': 'audio/11.mp3'
-    },
+      "banglaText": "কেয়ং",
+      "englishText": "Ginger",
+      "imagePath": "assets/foods/8.jpg",
+      "audioPath": "audio/foods/8.mp3"
+    }
   ];
   AudioPlayer? audioPlayer;
   bool isPlaying = false;

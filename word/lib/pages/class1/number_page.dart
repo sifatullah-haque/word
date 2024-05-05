@@ -14,76 +14,136 @@ class _numberPageState extends State<NumberPage> {
   // Define a list of data for your containers
   final List<Map<String, dynamic>> containerData = [
     {
-      'banglaText': 'অ',
-      'englishText': 'Me',
+      'banglaText': 'লেং',
+      'englishText': 'Zero',
       'imagePath': 'assets/familyPage/2.jpeg',
       'audioPath': 'audio/1.mp3'
     },
     {
-      'banglaText': 'লেই',
-      'englishText': 'You',
+      'banglaText': 'ইয়াত',
+      'englishText': 'One',
       'imagePath': 'assets/familyPage/1.png',
       'audioPath': 'audio/2.mp3'
     },
     {
-      'banglaText': 'খই',
-      'englishText': 'His/Her',
+      'banglaText': 'ই',
+      'englishText': 'Two',
       'imagePath': 'assets/familyPage/3.jpeg',
       'audioPath': 'audio/3.mp3'
     },
     {
-      'banglaText': 'অ তেই',
-      'englishText': 'We/Us',
+      'banglaText': 'সাম',
+      'englishText': 'Three',
       'imagePath': 'assets/familyPage/4.jpeg',
       'audioPath': 'audio/4.mp3'
     },
     {
-      'banglaText': 'খই তেই',
-      'englishText': 'They/Their',
+      'banglaText': 'সেই',
+      'englishText': 'Four',
       'imagePath': 'assets/familyPage/5.jpeg',
       'audioPath': 'audio/5.mp3'
     },
     {
-      'banglaText': 'লেই তেই',
-      'englishText': 'You',
+      'banglaText': 'উম',
+      'englishText': 'Five',
       'imagePath': 'assets/familyPage/1.png',
       'audioPath': 'audio/2.mp3'
     },
     {
-      'banglaText': 'ইয়ে ইয়ে',
-      'englishText': 'Grandfather',
+      'banglaText': 'লোক',
+      'englishText': 'Six',
       'imagePath': 'assets/familyPage/6.jpeg',
       'audioPath': 'audio/6.mp3'
     },
     {
-      'banglaText': 'মা মা',
-      'englishText': 'Grandmother',
+      'banglaText': 'ঝাত',
+      'englishText': 'Seven',
       'imagePath': 'assets/familyPage/7.jpeg',
       'audioPath': 'audio/7.mp3'
     },
     {
-      'banglaText': 'পা পা',
-      'englishText': 'Father/Dad',
+      'banglaText': 'পা',
+      'englishText': 'Eight',
       'imagePath': 'assets/familyPage/8.jpeg',
       'audioPath': 'audio/8.mp3'
     },
     {
-      'banglaText': 'চাই',
-      'englishText': 'Son',
+      'banglaText': 'কাউ',
+      'englishText': 'Nine',
       'imagePath': 'assets/familyPage/9.jpeg',
       'audioPath': 'audio/9.mp3'
     },
     {
-      'banglaText': 'লই',
-      'englishText': 'Daugther',
+      'banglaText': 'ছাপ',
+      'englishText': 'Ten',
       'imagePath': 'assets/familyPage/10.jpeg',
       'audioPath': 'audio/10.mp3'
     },
     {
-      'banglaText': 'ছাইলো',
-      'englishText': 'Brother',
+      'banglaText': 'ছাপ ইয়াত',
+      'englishText': 'Eleven',
       'imagePath': 'assets/familyPage/11.jpeg',
       'audioPath': 'audio/11.mp3'
+    },
+    {
+      'banglaText': 'ছাপ ই',
+      'englishText': 'Twelve',
+      'imagePath': 'assets/familyPage/12.jpeg',
+      'audioPath': 'audio/12.mp3'
+    },
+    {
+      'banglaText': 'ছাপ সাম',
+      'englishText': 'Thirteen',
+      'imagePath': 'assets/familyPage/13.jpeg',
+      'audioPath': 'audio/13.mp3'
+    },
+    {
+      'banglaText': 'ই ছাপ',
+      'englishText': 'Twenty',
+      'imagePath': 'assets/familyPage/14.jpeg',
+      'audioPath': 'audio/14.mp3'
+    },
+    {
+      'banglaText': 'ই  ছাপ ইয়াত',
+      'englishText': 'Twenty-One',
+      'imagePath': 'assets/familyPage/15.jpeg',
+      'audioPath': 'audio/15.mp3'
+    },
+    {
+      'banglaText': 'ছাম ছাপ',
+      'englishText': 'Thirty',
+      'imagePath': 'assets/familyPage/16.jpeg',
+      'audioPath': 'audio/16.mp3'
+    },
+    {
+      'banglaText': 'ছাম ছাপ ছাম',
+      'englishText': 'Thirty-Three',
+      'imagePath': 'assets/familyPage/17.jpeg',
+      'audioPath': 'audio/17.mp3'
+    },
+    {
+      'banglaText': 'ছেই ছাপ',
+      'englishText': 'Forty',
+      'imagePath': 'assets/familyPage/18.jpeg',
+      'audioPath': 'audio/18.mp3'
+    },
+    {
+      'banglaText': 'ছেই ছাপ ছেই',
+      'englishText': 'Forty-Four',
+      'imagePath': 'assets/familyPage/19.jpeg',
+      'audioPath': 'audio/19.mp3'
+    },
+    {
+      'banglaText': 'উম ছাপ',
+      'englishText': 'Fifty',
+      'imagePath': 'assets/familyPage/20.jpeg',
+      'audioPath': 'audio/20.mp3'
+    },
+    {
+      'banglaText': 'উম ছাপ উম',
+      'englishText': 'Fifty-Five',
+      'imagePath': 'assets/familyPage/21.jpeg',
+      'audioPath': 'audio/21.mp3'
     },
   ];
   AudioPlayer? audioPlayer;
