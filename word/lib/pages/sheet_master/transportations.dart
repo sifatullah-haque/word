@@ -14,77 +14,101 @@ class _FamilyPageState extends State<Transportations> {
   // Define a list of data for your containers
   final List<Map<String, dynamic>> containerData = [
     {
-      'banglaText': 'অ',
-      'englishText': 'Me',
-      'imagePath': 'assets/familyPage/2.jpeg',
-      'audioPath': 'audio/1.mp3'
+      "banglaText": "তেই থিত",
+      "englishText": "MTR",
+      "imagePath": "assets/transportation/1.jpg",
+      "audioPath": "audio/transportation/1.mp3"
     },
     {
-      'banglaText': 'লেই',
-      'englishText': 'You',
-      'imagePath': 'assets/familyPage/1.png',
-      'audioPath': 'audio/2.mp3'
+      "banglaText": "তেই থিত চাম",
+      "englishText": "MTR Station",
+      "imagePath": "assets/transportation/2.jpg",
+      "audioPath": "audio/transportation/2.mp3"
     },
     {
-      'banglaText': 'খই',
-      'englishText': 'His/Her',
-      'imagePath': 'assets/familyPage/3.jpeg',
-      'audioPath': 'audio/3.mp3'
+      "banglaText": "বাছি",
+      "englishText": "Bus",
+      "imagePath": "assets/transportation/3.jpg",
+      "audioPath": "audio/transportation/3.mp3"
     },
     {
-      'banglaText': 'অ তেই',
-      'englishText': 'We/Us',
-      'imagePath': 'assets/familyPage/4.jpeg',
-      'audioPath': 'audio/4.mp3'
+      "banglaText": "বাছি চাম",
+      "englishText": "Bus station",
+      "imagePath": "assets/transportation/4.jpg",
+      "audioPath": "audio/transportation/4.mp3"
     },
     {
-      'banglaText': 'খই তেই',
-      'englishText': 'They/Their',
-      'imagePath': 'assets/familyPage/5.jpeg',
-      'audioPath': 'audio/5.mp3'
+      "banglaText": "ছি পা",
+      "englishText": "Mini-Bus",
+      "imagePath": "assets/transportation/5.jpg",
+      "audioPath": "audio/transportation/5.mp3"
     },
     {
-      'banglaText': 'লেই তেই',
-      'englishText': 'You',
-      'imagePath': 'assets/familyPage/1.png',
-      'audioPath': 'audio/2.mp3'
+      "banglaText": "ছি পা চাম",
+      "englishText": "Mini-bus station",
+      "imagePath": "assets/transportation/6.jpg",
+      "audioPath": "audio/transportation/6.mp3"
     },
     {
-      'banglaText': 'ইয়ে ইয়ে',
-      'englishText': 'Grandfather',
-      'imagePath': 'assets/familyPage/6.jpeg',
-      'audioPath': 'audio/6.mp3'
+      "banglaText": "তেক ছি",
+      "englishText": "Taxi",
+      "imagePath": "assets/transportation/7.jpg",
+      "audioPath": "audio/transportation/7.mp3"
     },
     {
-      'banglaText': 'মা মা',
-      'englishText': 'Grandmother',
-      'imagePath': 'assets/familyPage/7.jpeg',
-      'audioPath': 'audio/7.mp3'
+      "banglaText": "তেক ছি চাম",
+      "englishText": "Taxi station",
+      "imagePath": "assets/transportation/8.jpg",
+      "audioPath": "audio/transportation/8.mp3"
     },
     {
-      'banglaText': 'পা পা',
-      'englishText': 'Father/Dad',
-      'imagePath': 'assets/familyPage/8.jpeg',
-      'audioPath': 'audio/8.mp3'
+      "banglaText": "ফ ছে",
+      "englishText": "Train",
+      "imagePath": "assets/transportation/9.jpg",
+      "audioPath": "audio/transportation/9.mp3"
     },
     {
-      'banglaText': 'চাই',
-      'englishText': 'Son',
-      'imagePath': 'assets/familyPage/9.jpeg',
-      'audioPath': 'audio/9.mp3'
+      "banglaText": "ফ  ছে চাম",
+      "englishText": "Train Station",
+      "imagePath": "assets/transportation/10.jpg",
+      "audioPath": "audio/transportation/10.mp3"
     },
     {
-      'banglaText': 'লই',
-      'englishText': 'Daugther',
-      'imagePath': 'assets/familyPage/10.jpeg',
-      'audioPath': 'audio/10.mp3'
+      "banglaText": "তিয়েন ছ",
+      "englishText": "Tram",
+      "imagePath": "assets/transportation/11.jpg",
+      "audioPath": "audio/transportation/11.mp3"
     },
     {
-      'banglaText': 'ছাইলো',
-      'englishText': 'Brother',
-      'imagePath': 'assets/familyPage/11.jpeg',
-      'audioPath': 'audio/11.mp3'
+      "banglaText": "তিয়েন ছ  চাম",
+      "englishText": "Tram Station",
+      "imagePath": "assets/transportation/12.jpg",
+      "audioPath": "audio/transportation/12.mp3"
     },
+    {
+      "banglaText": "ছ গান ছি",
+      "englishText": "Private Car",
+      "imagePath": "assets/transportation/13.jpg",
+      "audioPath": "audio/transportation/13.mp3"
+    },
+    {
+      "banglaText": "ত ঝইয়ান",
+      "englishText": "Ferry",
+      "imagePath": "assets/transportation/14.jpg",
+      "audioPath": "audio/transportation/14.mp3"
+    },
+    {
+      "banglaText": "পাতা থং",
+      "englishText": "Octopus",
+      "imagePath": "assets/transportation/15.jpg",
+      "audioPath": "audio/transportation/15.mp3"
+    },
+    {
+      "banglaText": "ফেই কেই",
+      "englishText": "Airplane",
+      "imagePath": "assets/transportation/16.jpg",
+      "audioPath": "audio/transportation/16.mp3"
+    }
   ];
   AudioPlayer? audioPlayer;
   bool isPlaying = false;

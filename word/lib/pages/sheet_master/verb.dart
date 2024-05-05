@@ -14,77 +14,125 @@ class _FamilyPageState extends State<Verb> {
   // Define a list of data for your containers
   final List<Map<String, dynamic>> containerData = [
     {
-      'banglaText': 'অ',
-      'englishText': 'Me',
-      'imagePath': 'assets/familyPage/2.jpeg',
-      'audioPath': 'audio/1.mp3'
+      "banglaText": "হেই সান",
+      "englishText": "Wake up",
+      "imagePath": "assets/actions/1.jpg",
+      "audioPath": "audio/actions/1.mp3"
     },
     {
-      'banglaText': 'লেই',
-      'englishText': 'You',
-      'imagePath': 'assets/familyPage/1.png',
-      'audioPath': 'audio/2.mp3'
+      "banglaText": "ফান কাও",
+      "englishText": "Sleeping",
+      "imagePath": "assets/actions/2.jpg",
+      "audioPath": "audio/actions/2.mp3"
     },
     {
-      'banglaText': 'খই',
-      'englishText': 'His/Her',
-      'imagePath': 'assets/familyPage/3.jpeg',
-      'audioPath': 'audio/3.mp3'
+      "banglaText": "হেই সান",
+      "englishText": "Stand up",
+      "imagePath": "assets/actions/3.jpg",
+      "audioPath": "audio/actions/3.mp3"
     },
     {
-      'banglaText': 'অ তেই',
-      'englishText': 'We/Us',
-      'imagePath': 'assets/familyPage/4.jpeg',
-      'audioPath': 'audio/4.mp3'
+      "banglaText": "ঝ তেই",
+      "englishText": "Sit down",
+      "imagePath": "assets/actions/4.jpg",
+      "audioPath": "audio/actions/4.mp3"
     },
     {
-      'banglaText': 'খই তেই',
-      'englishText': 'They/Their',
-      'imagePath': 'assets/familyPage/5.jpeg',
-      'audioPath': 'audio/5.mp3'
+      "banglaText": "তোক স্যু",
+      "englishText": "Study",
+      "imagePath": "assets/actions/5.jpg",
+      "audioPath": "audio/actions/5.mp3"
     },
     {
-      'banglaText': 'লেই তেই',
-      'englishText': 'You',
-      'imagePath': 'assets/familyPage/1.png',
-      'audioPath': 'audio/2.mp3'
+      "banglaText": "সে চি",
+      "englishText": "Writing",
+      "imagePath": "assets/actions/6.jpg",
+      "audioPath": "audio/actions/6.mp3"
     },
     {
-      'banglaText': 'ইয়ে ইয়ে',
-      'englishText': 'Grandfather',
-      'imagePath': 'assets/familyPage/6.jpeg',
-      'audioPath': 'audio/6.mp3'
+      "banglaText": "চাউ",
+      "englishText": "Run",
+      "imagePath": "assets/actions/7.jpg",
+      "audioPath": "audio/actions/7.mp3"
     },
     {
-      'banglaText': 'মা মা',
-      'englishText': 'Grandmother',
-      'imagePath': 'assets/familyPage/7.jpeg',
-      'audioPath': 'audio/7.mp3'
+      "banglaText": "থিউ",
+      "englishText": "Jump",
+      "imagePath": "assets/actions/8.jpg",
+      "audioPath": "audio/actions/8.mp3"
     },
     {
-      'banglaText': 'পা পা',
-      'englishText': 'Father/Dad',
-      'imagePath': 'assets/familyPage/8.jpeg',
-      'audioPath': 'audio/8.mp3'
+      "banglaText": "হাই ফান কোং",
+      "englishText": "Go to work",
+      "imagePath": "assets/actions/9.jpg",
+      "audioPath": "audio/actions/9.mp3"
     },
     {
-      'banglaText': 'চাই',
-      'englishText': 'Son',
-      'imagePath': 'assets/familyPage/9.jpeg',
-      'audioPath': 'audio/9.mp3'
+      "banglaText": "হই চ ইয়ে",
+      "englishText": "To work",
+      "imagePath": "assets/actions/10.jpg",
+      "audioPath": "audio/actions/10.mp3"
     },
     {
-      'banglaText': 'লই',
-      'englishText': 'Daugther',
-      'imagePath': 'assets/familyPage/10.jpeg',
-      'audioPath': 'audio/10.mp3'
+      "banglaText": "ঝুং লয়ং",
+      "englishText": "Take a shower",
+      "imagePath": "assets/actions/11.jpg",
+      "audioPath": "audio/actions/11.mp3"
     },
     {
-      'banglaText': 'ছাইলো',
-      'englishText': 'Brother',
-      'imagePath': 'assets/familyPage/11.jpeg',
-      'audioPath': 'audio/11.mp3'
+      "banglaText": "মাত সান",
+      "englishText": "Dry your body",
+      "imagePath": "assets/actions/12.jpg",
+      "audioPath": "audio/actions/12.mp3"
     },
+    {
+      "banglaText": "চয়োক সাম",
+      "englishText": "Change your clothes",
+      "imagePath": "assets/actions/13.jpg",
+      "audioPath": "audio/actions/13.mp3"
+    },
+    {
+      "banglaText": "ঝুই থাউ",
+      "englishText": "Dry your hair",
+      "imagePath": "assets/actions/14.jpg",
+      "audioPath": "audio/actions/14.mp3"
+    },
+    {
+      "banglaText": "চছ থাউ",
+      "englishText": "Comb your hair",
+      "imagePath": "assets/actions/15.jpg",
+      "audioPath": "audio/actions/15.mp3"
+    },
+    {
+      "banglaText": "কিন মিন",
+      "englishText": "Meet",
+      "imagePath": "assets/actions/16.jpg",
+      "audioPath": "audio/actions/16.mp3"
+    },
+    {
+      "banglaText": "কং",
+      "englishText": "Talk",
+      "imagePath": "assets/actions/17.jpg",
+      "audioPath": "audio/actions/17.mp3"
+    },
+    {
+      "banglaText": "ঝয়ং ক",
+      "englishText": "Sing",
+      "imagePath": "assets/actions/18.jpg",
+      "audioPath": "audio/actions/18.mp3"
+    },
+    {
+      "banglaText": "ইয়াও সেক",
+      "englishText": "Take a rest",
+      "imagePath": "assets/actions/19.jpg",
+      "audioPath": "audio/actions/19.mp3"
+    },
+    {
+      "banglaText": "হাক হাউ হাক মিন",
+      "englishText": "Get angry",
+      "imagePath": "assets/actions/20.jpg",
+      "audioPath": "audio/actions/20.mp3"
+    }
   ];
   AudioPlayer? audioPlayer;
   bool isPlaying = false;

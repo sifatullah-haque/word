@@ -14,77 +14,155 @@ class _FamilyPageState extends State<Places> {
   // Define a list of data for your containers
   final List<Map<String, dynamic>> containerData = [
     {
-      'banglaText': 'অ',
-      'englishText': 'Me',
-      'imagePath': 'assets/familyPage/2.jpeg',
-      'audioPath': 'audio/1.mp3'
+      "banglaText": "কাউ মাত ঝুং সাম",
+      "englishText": "Shopping Centre",
+      "imagePath": "assets/places/1.jpg",
+      "audioPath": "audio/places/1.mp3"
     },
     {
-      'banglaText': 'লেই',
-      'englishText': 'You',
-      'imagePath': 'assets/familyPage/1.png',
-      'audioPath': 'audio/2.mp3'
+      "banglaText": "সেং চং",
+      "englishText": "Shopping mall",
+      "imagePath": "assets/places/2.jpg",
+      "audioPath": "audio/places/2.mp3"
     },
     {
-      'banglaText': 'খই',
-      'englishText': 'His/Her',
-      'imagePath': 'assets/familyPage/3.jpeg',
-      'audioPath': 'audio/3.mp3'
+      "banglaText": "ছিউ কাপ চি ছেং",
+      "englishText": "Supermarket",
+      "imagePath": "assets/places/3.jpg",
+      "audioPath": "audio/places/3.mp3"
     },
     {
-      'banglaText': 'অ তেই',
-      'englishText': 'We/Us',
-      'imagePath': 'assets/familyPage/4.jpeg',
-      'audioPath': 'audio/4.mp3'
+      "banglaText": "পিন লেই তিম",
+      "englishText": "Convenience store",
+      "imagePath": "assets/places/4.jpg",
+      "audioPath": "audio/places/4.mp3"
     },
     {
-      'banglaText': 'খই তেই',
-      'englishText': 'They/Their',
-      'imagePath': 'assets/familyPage/5.jpeg',
-      'audioPath': 'audio/5.mp3'
+      "banglaText": "মিন পাউ পো",
+      "englishText": "Bakery shop",
+      "imagePath": "assets/places/5.jpg",
+      "audioPath": "audio/places/5.mp3"
     },
     {
-      'banglaText': 'লেই তেই',
-      'englishText': 'You',
-      'imagePath': 'assets/familyPage/1.png',
-      'audioPath': 'audio/2.mp3'
+      "banglaText": "ঈয়ক ফং",
+      "englishText": "Pharmacy",
+      "imagePath": "assets/places/6.jpg",
+      "audioPath": "audio/places/6.mp3"
     },
     {
-      'banglaText': 'ইয়ে ইয়ে',
-      'englishText': 'Grandfather',
-      'imagePath': 'assets/familyPage/6.jpeg',
-      'audioPath': 'audio/6.mp3'
+      "banglaText": "ঝান থেং",
+      "englishText": "Restaurant",
+      "imagePath": "assets/places/7.jpg",
+      "audioPath": "audio/places/7.mp3"
     },
     {
-      'banglaText': 'মা মা',
-      'englishText': 'Grandmother',
-      'imagePath': 'assets/familyPage/7.jpeg',
-      'audioPath': 'audio/7.mp3'
+      "banglaText": "চাউ লে",
+      "englishText": "Chinese restaurant",
+      "imagePath": "assets/places/8.jpg",
+      "audioPath": "audio/places/8.mp3"
     },
     {
-      'banglaText': 'পা পা',
-      'englishText': 'Father/Dad',
-      'imagePath': 'assets/familyPage/8.jpeg',
-      'audioPath': 'audio/8.mp3'
+      "banglaText": "চাউ তিম",
+      "englishText": "Hotel",
+      "imagePath": "assets/places/9.jpg",
+      "audioPath": "audio/places/9.mp3"
     },
     {
-      'banglaText': 'চাই',
-      'englishText': 'Son',
-      'imagePath': 'assets/familyPage/9.jpeg',
-      'audioPath': 'audio/9.mp3'
+      "banglaText": "ফাত লোং",
+      "englishText": "Salon",
+      "imagePath": "assets/places/10.jpg",
+      "audioPath": "audio/places/10.mp3"
     },
     {
-      'banglaText': 'লই',
-      'englishText': 'Daugther',
-      'imagePath': 'assets/familyPage/10.jpeg',
-      'audioPath': 'audio/10.mp3'
+      "banglaText": "কাই ছি",
+      "englishText": "Market",
+      "imagePath": "assets/places/11.jpg",
+      "audioPath": "audio/places/11.mp3"
     },
     {
-      'banglaText': 'ছাইলো',
-      'englishText': 'Brother',
-      'imagePath': 'assets/familyPage/11.jpeg',
-      'audioPath': 'audio/11.mp3'
+      "banglaText": "ঝয় থং",
+      "englishText": "Vegetable stalls",
+      "imagePath": "assets/places/12.jpg",
+      "audioPath": "audio/places/12.mp3"
     },
+    {
+      "banglaText": "চ্যু ইয়ু থং",
+      "englishText": "Pork stalls",
+      "imagePath": "assets/places/13.jpg",
+      "audioPath": "audio/places/13.mp3"
+    },
+    {
+      "banglaText": "নাআ ইয়ুক থং",
+      "englishText": "Beef stalls",
+      "imagePath": "assets/places/14.jpg",
+      "audioPath": "audio/places/14.mp3"
+    },
+    {
+      "banglaText": "কাই থং",
+      "englishText": "Hen stalls",
+      "imagePath": "assets/places/15.jpg",
+      "audioPath": "audio/places/15.mp3"
+    },
+    {
+      "banglaText": "তো ইয়ুক পো",
+      "englishText": "Frozen meat stalls",
+      "imagePath": "assets/places/16.jpg",
+      "audioPath": "audio/places/16.mp3"
+    },
+    {
+      "banglaText": "আন হোং",
+      "englishText": "Bank",
+      "imagePath": "assets/places/17.jpg",
+      "audioPath": "audio/places/17.mp3"
+    },
+    {
+      "banglaText": "হক হাউ",
+      "englishText": "School",
+      "imagePath": "assets/places/18.jpg",
+      "audioPath": "audio/places/18.mp3"
+    },
+    {
+      "banglaText": "ফেই কেই ঝয়ং",
+      "englishText": "Airport",
+      "imagePath": "assets/places/19.jpg",
+      "audioPath": "audio/places/19.mp3"
+    },
+    {
+      "banglaText": "লিন সি কোয়ান",
+      "englishText": "Consulate",
+      "imagePath": "assets/places/20.jpg",
+      "audioPath": "audio/places/20.mp3"
+    },
+    {
+      "banglaText": "ই লিন চ",
+      "englishText": "Immigration departure",
+      "imagePath": "assets/places/21.jpg",
+      "audioPath": "audio/places/21.mp3"
+    },
+    {
+      "banglaText": "ই ইয়ুন",
+      "englishText": "Hospital",
+      "imagePath": "assets/places/22.jpg",
+      "audioPath": "audio/places/22.mp3"
+    },
+    {
+      "banglaText": "চেং ঝা চু",
+      "englishText": "Police Station",
+      "imagePath": "assets/places/23.jpg",
+      "audioPath": "audio/places/23.mp3"
+    },
+    {
+      "banglaText": "ইউ",
+      "englishText": "Post Office",
+      "imagePath": "assets/places/24.jpg",
+      "audioPath": "audio/places/24.mp3"
+    },
+    {
+      "banglaText": "কো ছি",
+      "englishText": "Company",
+      "imagePath": "assets/places/25.jpg",
+      "audioPath": "audio/places/25.mp3"
+    }
   ];
   AudioPlayer? audioPlayer;
   bool isPlaying = false;
