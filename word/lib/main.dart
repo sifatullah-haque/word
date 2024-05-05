@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
                   iconTheme: IconThemeData(
             color: ColorIs.wColor,
           ))),
-          home: Scaffold(
+          home: const Scaffold(
             body: HomePage(),
           ),
         );

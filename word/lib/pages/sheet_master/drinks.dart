@@ -5,12 +5,12 @@ import 'package:flutter/widgets.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:word/const/color_is.dart';
 
-class FamilyPage extends StatefulWidget {
+class Drinks extends StatefulWidget {
   @override
-  State<FamilyPage> createState() => _FamilyPageState();
+  State<Drinks> createState() => _DrinksState();
 }
 
-class _FamilyPageState extends State<FamilyPage> {
+class _DrinksState extends State<Drinks> {
   // Define a list of data for your containers
   final List<Map<String, dynamic>> containerData = [
     {
@@ -114,7 +114,7 @@ class _FamilyPageState extends State<FamilyPage> {
             bottom: Radius.circular(20),
           ),
         ),
-        title: Text('Family Page', style: TextStyle(color: ColorIs.wColor)),
+        title: Text('Drinks', style: TextStyle(color: ColorIs.wColor)),
       ),
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.stretch,
