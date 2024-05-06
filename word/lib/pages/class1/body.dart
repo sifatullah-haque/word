@@ -17,115 +17,115 @@ class _BodyState extends State<Body> {
       'banglaText': 'থাউ',
       'englishText': 'Head',
       'imagePath': 'assets/familyPage/2.jpeg',
-      'audioPath': 'audio/1.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Body/1/Head.mp3'
     },
     {
       'banglaText': 'থাউ ফাত',
       'englishText': 'Hair',
       'imagePath': 'assets/familyPage/1.png',
-      'audioPath': 'audio/2.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Body/1/Hair.mp3'
     },
     {
       'banglaText': 'মিন',
       'englishText': 'Face',
       'imagePath': 'assets/familyPage/3.jpeg',
-      'audioPath': 'audio/3.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Body/1/Face.mp3'
     },
     {
       'banglaText': 'আন',
       'englishText': 'Eye',
       'imagePath': 'assets/familyPage/4.jpeg',
-      'audioPath': 'audio/4.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Body/1/Eye.mp3'
     },
     {
       'banglaText': 'ই চাই',
       'englishText': 'Ears',
       'imagePath': 'assets/familyPage/5.jpeg',
-      'audioPath': 'audio/5.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Body/1/Ears.mp3'
     },
     {
       'banglaText': 'হাউ',
       'englishText': 'Mouth',
       'imagePath': 'assets/familyPage/6.jpeg',
-      'audioPath': 'audio/6.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Body/1/Mouth.mp3'
     },
     {
       'banglaText': 'চৈ ই',
       'englishText': 'Lips',
       'imagePath': 'assets/familyPage/7.jpeg',
-      'audioPath': 'audio/7.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Body/1/Lips.mp3'
     },
     {
       'banglaText': 'আ ঙ',
       'englishText': 'Tooth',
       'imagePath': 'assets/familyPage/8.jpeg',
-      'audioPath': 'audio/8.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Body/1/Tooth.mp3'
     },
     {
       'banglaText': 'লেই',
       'englishText': 'Tongue',
       'imagePath': 'assets/familyPage/9.jpeg',
-      'audioPath': 'audio/9.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Body/1/Tongue.mp3'
     },
     {
       'banglaText': 'হাউ লং',
       'englishText': 'Throat',
       'imagePath': 'assets/familyPage/10.jpeg',
-      'audioPath': 'audio/10.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Body/1/Throat.mp3'
     },
     {
       'banglaText': 'পেই কো',
       'englishText': 'Nose',
       'imagePath': 'assets/familyPage/2.jpeg',
-      'audioPath': 'audio/1.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Body/1/Nose.mp3'
     },
     {
       'banglaText': 'কেয়ং',
       'englishText': 'Neck',
       'imagePath': 'assets/familyPage/1.png',
-      'audioPath': 'audio/2.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Body/1/Neck.mp3'
     },
     {
       'banglaText': 'ছাউ',
       'englishText': 'Hand',
       'imagePath': 'assets/familyPage/3.jpeg',
-      'audioPath': 'audio/3.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Body/1/Hand.mp3'
     },
     {
       'banglaText': 'ছাউ চি',
       'englishText': 'Finger',
       'imagePath': 'assets/familyPage/4.jpeg',
-      'audioPath': 'audio/4.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Body/1/Finger.mp3'
     },
     {
       'banglaText': 'চি ক্যাপ',
       'englishText': 'Fingernail',
       'imagePath': 'assets/familyPage/5.jpeg',
-      'audioPath': 'audio/5.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Body/1/Fingernail.mp3'
     },
     {
       'banglaText': 'ওয়াই',
       'englishText': 'Stomach',
       'imagePath': 'assets/familyPage/6.jpeg',
-      'audioPath': 'audio/6.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Body/1/Stomach.mp3'
     },
     {
       'banglaText': 'থৌ',
       'englishText': 'Belly',
       'imagePath': 'assets/familyPage/7.jpeg',
-      'audioPath': 'audio/7.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Body/1/Belly.mp3'
     },
     {
       'banglaText': 'কয়োক',
       'englishText': 'Foot',
       'imagePath': 'assets/familyPage/8.jpeg',
-      'audioPath': 'audio/8.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Body/1/Foot.mp3'
     },
     {
       'banglaText': 'কয়োক চি',
       'englishText': 'Toes',
       'imagePath': 'assets/familyPage/9.jpeg',
-      'audioPath': 'audio/9.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Body/1/Toes.mp3'
     },
   ];
   AudioPlayer? audioPlayer;
