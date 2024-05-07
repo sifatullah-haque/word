@@ -17,19 +17,19 @@ class _FamilyPageState extends State<Pet> {
       "banglaText": "মাউ",
       "englishText": "Cat",
       "imagePath": "assets/animals/1.jpg",
-      "audioPath": "audio/animals/1.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Pet/1/Cat.mp3"
     },
     {
       "banglaText": "কাউ",
       "englishText": "Dog",
       "imagePath": "assets/animals/2.jpg",
-      "audioPath": "audio/animals/2.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Pet/1/Dog.mp3"
     },
     {
       "banglaText": "কয়ক চাই",
       "englishText": "Bird",
       "imagePath": "assets/animals/3.jpg",
-      "audioPath": "audio/animals/3.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Pet/1/Bird.mp3"
     },
   ];
   AudioPlayer? audioPlayer;

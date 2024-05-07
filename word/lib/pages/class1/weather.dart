@@ -16,127 +16,127 @@ class _weatherState extends State<Weather> {
     {
       'banglaText': 'থিন হেই',
       'englishText': 'weather',
-      'imagePath': 'assets/familyPage/2.jpeg',
+      'imagePath': 'assets/images/weather/weather.png',
       'audioPath': 'Cantonese_Audio/Class1/Weather/0/weather.mp3'
     },
     {
       'banglaText': 'ইত',
       'englishText': 'Hot',
-      'imagePath': 'assets/familyPage/1.png',
+      'imagePath': 'assets/images/weather/hot.png',
       'audioPath': 'Cantonese_Audio/Class1/Weather/0/Hot.mp3'
     },
     {
       'banglaText': 'লেই উয়ুম উয়ু ইত',
       'englishText': 'Do you feel hot?',
-      'imagePath': 'assets/familyPage/3.jpeg',
+      'imagePath': 'assets/images/weather/feel_hot.png',
       'audioPath': 'Cantonese_Audio/Class1/Weather/0/Do_you_feel_hot_.mp3'
     },
     {
       'banglaText': 'অ উম ইত আ',
       'englishText': 'Not feel hot',
-      'imagePath': 'assets/familyPage/4.jpeg',
+      'imagePath': 'assets/images/weather/not_hot.png',
       'audioPath': 'Cantonese_Audio/Class1/Weather/0/Not_feel_hot..mp3'
     },
     {
       'banglaText': 'তোং',
       'englishText': 'Cold',
-      'imagePath': 'assets/familyPage/6.jpeg',
+      'imagePath': 'assets/images/weather/cold.png',
       'audioPath': 'Cantonese_Audio/Class1/Weather/0/Cold.mp3'
     },
     {
       'banglaText': 'লয়ং',
       'englishText': 'Cool',
-      'imagePath': 'assets/familyPage/7.jpeg',
+      'imagePath': 'assets/images/weather/cool.png',
       'audioPath': 'Cantonese_Audio/Class1/Weather/0/Cool.mp3'
     },
     {
       'banglaText': 'লুন',
       'englishText': 'Warm',
-      'imagePath': 'assets/familyPage/8.jpeg',
+      'imagePath': 'assets/images/weather/warm.png',
       'audioPath': 'Cantonese_Audio/Class1/Weather/0/Warm.mp3'
     },
     {
       'banglaText': 'ছাপ',
       'englishText': 'Wet',
-      'imagePath': 'assets/familyPage/9.jpeg',
+      'imagePath': 'assets/images/weather/wet.png',
       'audioPath': 'Cantonese_Audio/Class1/Weather/0/Wet.mp3'
     },
     {
       'banglaText': 'কন',
       'englishText': 'Dry',
-      'imagePath': 'assets/familyPage/10.jpeg',
+      'imagePath': 'assets/images/weather/dry.png',
       'audioPath': 'Cantonese_Audio/Class1/Weather/0/Dry.mp3'
     },
     {
       'banglaText': 'হোউ থিন',
       'englishText': 'Good Weather',
-      'imagePath': 'assets/familyPage/11.jpeg',
+      'imagePath': 'assets/images/weather/good_weather.png',
       'audioPath': 'Cantonese_Audio/Class1/Weather/0/Good_Weather.mp3'
     },
     {
       'banglaText': 'ছাই ছাম',
       'englishText': 'Wash the clothes',
-      'imagePath': 'assets/familyPage/12.jpeg',
+      'imagePath': 'assets/images/weather/wash.png',
       'audioPath': 'Cantonese_Audio/Class1/Weather/0/Wash_the_cloths.mp3'
     },
     {
       'banglaText': 'ইয়াম থিন',
       'englishText': 'Cloudy day',
-      'imagePath': 'assets/familyPage/13.jpeg',
+      'imagePath': 'assets/images/weather/cloud.png',
       'audioPath': 'Cantonese_Audio/Class1/Weather/0/Cloudy_day.mp3'
     },
     {
       'banglaText': 'লক ইয়ু',
       'englishText': 'Rain',
-      'imagePath': 'assets/familyPage/14.jpeg',
+      'imagePath': 'assets/images/weather/rain.png',
       'audioPath': 'Cantonese_Audio/Class1/Weather/0/Rain.mp3'
     },
     {
       'banglaText': 'তাই ইয়ু',
       'englishText': 'Heavy rain',
-      'imagePath': 'assets/familyPage/15.jpeg',
+      'imagePath': 'assets/images/weather/heavy_rain.png',
       'audioPath': 'Cantonese_Audio/Class1/Weather/0/Heavy_rain.mp3'
     },
     {
       'banglaText': 'ছাউ ছাম',
       'englishText': 'Collect the clothes',
-      'imagePath': 'assets/familyPage/16.jpeg',
+      'imagePath': 'assets/images/weather/clothes.png',
       'audioPath': 'Cantonese_Audio/Class1/Weather/0/Collect_the_cloths.mp3'
     },
     {
       'banglaText': 'ফোং',
       'englishText': 'Wind',
-      'imagePath': 'assets/familyPage/17.jpeg',
+      'imagePath': 'assets/images/weather/wind.png',
       'audioPath': 'Cantonese_Audio/Class1/Weather/0/Wind.mp3'
     },
     {
       'banglaText': 'তাই ফোং',
       'englishText': 'Strong wind',
-      'imagePath': 'assets/familyPage/18.jpeg',
+      'imagePath': 'assets/images/weather/heavy_wind.png',
       'audioPath': 'Cantonese_Audio/Class1/Weather/0/Strong_wind.mp3'
     },
     {
       'banglaText': 'চুন থিন',
       'englishText': 'Spring',
-      'imagePath': 'assets/familyPage/19.jpeg',
+      'imagePath': 'assets/images/weather/spring.png',
       'audioPath': 'Cantonese_Audio/Class1/Weather/0/Spring.mp3'
     },
     {
       'banglaText': 'হা থিন',
       'englishText': 'Summer',
-      'imagePath': 'assets/familyPage/20.jpeg',
+      'imagePath': 'assets/images/weather/summer.png',
       'audioPath': 'Cantonese_Audio/Class1/Weather/0/Summer.mp3'
     },
     {
       'banglaText': 'ঝাউ থিন',
       'englishText': 'Autumn',
-      'imagePath': 'assets/familyPage/21.jpeg',
+      'imagePath': 'assets/images/weather/autumn.png',
       'audioPath': 'Cantonese_Audio/Class1/Weather/0/Autumn.mp3'
     },
     {
       'banglaText': 'তোংথিন',
       'englishText': 'Winter',
-      'imagePath': 'assets/familyPage/22.jpeg',
+      'imagePath': 'assets/images/weather/winter.png',
       'audioPath': 'Cantonese_Audio/Class1/Weather/0/Winter.mp3'
     },
   ];

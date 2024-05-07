@@ -17,25 +17,25 @@ class _DrinksState extends State<Drinks> {
       "banglaText": "কাফে",
       "englishText": "Coffee",
       "imagePath": "assets/beverages/1.jpg",
-      "audioPath": "audio/beverages/1.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Drinks/1/Coffee.mp3"
     },
     {
       "banglaText": "লাই ঝা",
       "englishText": "Milk tea",
       "imagePath": "assets/beverages/2.jpg",
-      "audioPath": "audio/beverages/2.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Drinks/1/Milk tea.mp3"
     },
     {
       "banglaText": "লেং মং ঝা",
       "englishText": "Lemon tea",
       "imagePath": "assets/beverages/3.jpg",
-      "audioPath": "audio/beverages/3.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Drinks/1/Lemon tea.mp3"
     },
     {
       "banglaText": "হেই সয়",
       "englishText": "Soft drinks",
       "imagePath": "assets/beverages/4.jpg",
-      "audioPath": "audio/beverages/4.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Drinks/1/Soft drinks.mp3"
     }
   ];
   AudioPlayer? audioPlayer;

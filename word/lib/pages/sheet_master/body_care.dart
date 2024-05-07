@@ -16,62 +16,66 @@ class _BodyCareState extends State<BodyCare> {
     {
       'banglaText': 'ছাই মিন',
       'englishText': 'Wash Face',
-      'imagePath': 'assets/familyPage/2.jpeg',
-      'audioPath': 'audio/1.mp3'
+      'imagePath': 'assets/images/bodyCare/faceWash.png',
+      'audioPath': 'Cantonese_Audio/Sheet_Master/Body_Care/1/Wash_Face.mp3'
     },
     {
       'banglaText': 'ছাই ছাউ',
       'englishText': 'Wash Hand',
-      'imagePath': 'assets/familyPage/1.png',
-      'audioPath': 'audio/2.mp3'
+      'imagePath': 'assets/images/bodyCare/wash.png',
+      'audioPath': 'Cantonese_Audio/Sheet_Master/Body_Care/1/Wash_Hand.mp3'
     },
     {
       'banglaText': 'ঝাত আ',
       'englishText': 'Brush Teeth',
-      'imagePath': 'assets/familyPage/3.jpeg',
-      'audioPath': 'audio/3.mp3'
+      'imagePath': 'assets/images/bodyCare/brush.png',
+      'audioPath': 'Cantonese_Audio/Sheet_Master/Body_Care/1/Brush_Teeth.mp3'
     },
     {
       'banglaText': 'মাত ছান',
       'englishText': 'Wipe your body',
-      'imagePath': 'assets/familyPage/4.jpeg',
-      'audioPath': 'audio/4.mp3'
+      'imagePath': 'assets/images/bodyCare/wipeBody.png',
+      'audioPath': 'Cantonese_Audio/Sheet_Master/Body_Care/1/Wipe_your_body.mp3'
     },
     {
       'banglaText': 'মাত হন',
       'englishText': 'Dry your body',
-      'imagePath': 'assets/familyPage/5.jpeg',
-      'audioPath': 'audio/5.mp3'
+      'imagePath': 'assets/images/bodyCare/dry.png',
+      'audioPath': 'Cantonese_Audio/Sheet_Master/Body_Care/1/Dry_your_body.mp3'
     },
     {
       'banglaText': 'মাত চই',
       'englishText': 'Wipe your mouth',
-      'imagePath': 'assets/familyPage/6.jpeg',
-      'audioPath': 'audio/6.mp3'
+      'imagePath': 'assets/images/bodyCare/wipeFace.png',
+      'audioPath':
+          'Cantonese_Audio/Sheet_Master/Body_Care/1/Wipe_your_mouth.mp3'
     },
     {
       'banglaText': 'ছাই সাম',
       'englishText': 'Wash the clothes',
-      'imagePath': 'assets/familyPage/7.jpeg',
-      'audioPath': 'audio/7.mp3'
+      'imagePath': 'assets/images/bodyCare/wash.png',
+      'audioPath':
+          'Cantonese_Audio/Sheet_Master/Body_Care/1/Wash_the_clothes.mp3'
     },
     {
       'banglaText': 'চিন চি ক্যাপ',
       'englishText': 'Trim your nails',
-      'imagePath': 'assets/familyPage/8.jpeg',
-      'audioPath': 'audio/8.mp3'
+      'imagePath': 'assets/images/bodyCare/cutnails.png',
+      'audioPath':
+          'Cantonese_Audio/Sheet_Master/Body_Care/1/Trim_your_nails.mp3'
     },
     {
       'banglaText': 'চিন থাউফাত',
       'englishText': 'Haircut',
-      'imagePath': 'assets/familyPage/9.jpeg',
-      'audioPath': 'audio/9.mp3'
+      'imagePath': 'assets/images/bodyCare/haircut.png',
+      'audioPath': 'Cantonese_Audio/Sheet_Master/Body_Care/1/Hair_cut.mp3'
     },
     {
       'banglaText': 'সয়ং ফু ক',
       'englishText': 'Moisturizing cream',
-      'imagePath': 'assets/familyPage/10.jpeg',
-      'audioPath': 'audio/10.mp3'
+      'imagePath': 'assets/images/bodyCare/moisturizer.png',
+      'audioPath':
+          'Cantonese_Audio/Sheet_Master/Body_Care/1/Moisturizing_cream.mp3'
     },
   ];
   AudioPlayer? audioPlayer;

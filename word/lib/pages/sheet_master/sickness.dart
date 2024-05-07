@@ -17,139 +17,140 @@ class _FamilyPageState extends State<Sickness> {
       "banglaText": "অ পেং চ",
       "englishText": "I am sick",
       "imagePath": "assets/health/1.jpg",
-      "audioPath": "audio/health/1.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Sickness/1/Cold.mp3"
     },
     {
       "banglaText": "হউ কুইয়া",
       "englishText": "So tired",
       "imagePath": "assets/health/2.jpg",
-      "audioPath": "audio/health/2.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Sickness/1/So tired.mp3"
     },
     {
       "banglaText": "থাই ই সান",
       "englishText": "Visit the doctor",
       "imagePath": "assets/health/3.jpg",
-      "audioPath": "audio/health/3.mp3"
+      "audioPath":
+          "Cantonese_Audio/Sheet_Master/Sickness/1/Visit the doctor.mp3"
     },
     {
       "banglaText": "পেং হউ",
       "englishText": "Getting better",
       "imagePath": "assets/health/4.jpg",
-      "audioPath": "audio/health/4.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Sickness/1/Getting better.mp3"
     },
     {
       "banglaText": "হউ থং",
       "englishText": "Pain",
       "imagePath": "assets/health/5.jpg",
-      "audioPath": "audio/health/5.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Sickness/1/Pain.mp3"
     },
     {
       "banglaText": "থাউ থং",
       "englishText": "Headache",
       "imagePath": "assets/health/6.jpg",
-      "audioPath": "audio/health/6.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Sickness/1/Headache.mp3"
     },
     {
       "banglaText": "থাউ ওয়ান",
       "englishText": "Dizzy",
       "imagePath": "assets/health/7.jpg",
-      "audioPath": "audio/health/7.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Sickness/1/Dizzy.mp3"
     },
     {
       "banglaText": "আউ",
       "englishText": "Vomit/Throw up",
       "imagePath": "assets/health/8.jpg",
-      "audioPath": "audio/health/8.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Sickness/1/Vomit.mp3"
     },
     {
       "banglaText": "ফাত সিউ",
       "englishText": "Fever",
       "imagePath": "assets/health/9.jpg",
-      "audioPath": "audio/health/9.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Sickness/1/Fever.mp3"
     },
     {
       "banglaText": "কাম মো",
       "englishText": "Cold",
       "imagePath": "assets/health/10.jpg",
-      "audioPath": "audio/health/10.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Sickness/1/Cold.mp3"
     },
     {
       "banglaText": "লাউ পেই সয়",
       "englishText": "Runny nose",
       "imagePath": "assets/health/11.jpg",
-      "audioPath": "audio/health/11.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Sickness/1/Runny nose.mp3"
     },
     {
       "banglaText": "না আ",
       "englishText": "Toothache",
       "imagePath": "assets/health/12.jpg",
-      "audioPath": "audio/health/12.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Sickness/1/Toothache.mp3"
     },
     {
       "banglaText": "খাত",
       "englishText": "Cough",
       "imagePath": "assets/health/13.jpg",
-      "audioPath": "audio/health/13.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Sickness/1/Cough.mp3"
     },
     {
       "banglaText": "নাআ সয়",
       "englishText": "Sputum",
       "imagePath": "assets/health/14.jpg",
-      "audioPath": "audio/health/14.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Sickness/1/Sputum.mp3"
     },
     {
       "banglaText": "লাউ হুত",
       "englishText": "Bleeding",
       "imagePath": "assets/health/15.jpg",
-      "audioPath": "audio/health/15.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Sickness/1/Bleeding.mp3"
     },
     {
       "banglaText": "লাউ পেই হুত",
       "englishText": "Nosebleed",
       "imagePath": "assets/health/16.jpg",
-      "audioPath": "audio/health/16.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Sickness/1/Nosebleed.mp3"
     },
     {
       "banglaText": "থউ থং",
       "englishText": "Abdominal pain",
       "imagePath": "assets/health/17.jpg",
-      "audioPath": "audio/health/17.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Sickness/1/Abdominal pain.mp3"
     },
     {
       "banglaText": "থউ অ",
       "englishText": "Belly defecate",
       "imagePath": "assets/health/18.jpg",
-      "audioPath": "audio/health/18.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Sickness/1/Belly defecate.mp3"
     },
     {
       "banglaText": "হান",
       "englishText": "Scar",
       "imagePath": "assets/health/19.jpg",
-      "audioPath": "audio/health/19.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Sickness/1/Scar.mp3"
     },
     {
       "banglaText": "ইয়ুত কেয়ং",
       "englishText": "Menstruation",
       "imagePath": "assets/health/20.jpg",
-      "audioPath": "audio/health/20.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Sickness/1/Menstruation.mp3"
     },
     {
       "banglaText": "তিত চ",
       "englishText": "Fall down",
       "imagePath": "assets/health/21.jpg",
-      "audioPath": "audio/health/21.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Sickness/1/Fall down.mp3"
     },
     {
       "banglaText": "সেক ইয়ক",
       "englishText": "Take medicine",
       "imagePath": "assets/health/22.jpg",
-      "audioPath": "audio/health/22.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Sickness/1/Take medicine.mp3"
     },
     {
       "banglaText": "কাম ইয়ক সয়",
       "englishText": "Medicine liquid",
       "imagePath": "assets/health/23.jpg",
-      "audioPath": "audio/health/23.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Sickness/1/Medicine liquid.mp3"
     },
   ];
   AudioPlayer? audioPlayer;

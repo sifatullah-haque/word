@@ -17,121 +17,121 @@ class _FamilyPageState extends State<Verb> {
       "banglaText": "হেই সান",
       "englishText": "Wake up",
       "imagePath": "assets/actions/1.jpg",
-      "audioPath": "audio/actions/1.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Verb/1/Bite.mp3"
     },
     {
       "banglaText": "ফান কাও",
       "englishText": "Sleeping",
       "imagePath": "assets/actions/2.jpg",
-      "audioPath": "audio/actions/2.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Verb/1/Sleeping.mp3"
     },
     {
       "banglaText": "হেই সান",
       "englishText": "Stand up",
       "imagePath": "assets/actions/3.jpg",
-      "audioPath": "audio/actions/3.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Verb/1/Stand up.mp3"
     },
     {
       "banglaText": "ঝ তেই",
       "englishText": "Sit down",
       "imagePath": "assets/actions/4.jpg",
-      "audioPath": "audio/actions/4.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Verb/1/Sit down.mp3"
     },
     {
       "banglaText": "তোক স্যু",
       "englishText": "Study",
       "imagePath": "assets/actions/5.jpg",
-      "audioPath": "audio/actions/5.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Verb/1/Study.mp3"
     },
     {
       "banglaText": "সে চি",
       "englishText": "Writing",
       "imagePath": "assets/actions/6.jpg",
-      "audioPath": "audio/actions/6.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Verb/1/Writing.mp3"
     },
     {
       "banglaText": "চাউ",
       "englishText": "Run",
       "imagePath": "assets/actions/7.jpg",
-      "audioPath": "audio/actions/7.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Verb/1/Run.mp3"
     },
     {
       "banglaText": "থিউ",
       "englishText": "Jump",
       "imagePath": "assets/actions/8.jpg",
-      "audioPath": "audio/actions/8.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Verb/1/Jump.mp3"
     },
     {
       "banglaText": "হাই ফান কোং",
       "englishText": "Go to work",
       "imagePath": "assets/actions/9.jpg",
-      "audioPath": "audio/actions/9.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Verb/1/Go to work.mp3"
     },
     {
       "banglaText": "হই চ ইয়ে",
       "englishText": "To work",
       "imagePath": "assets/actions/10.jpg",
-      "audioPath": "audio/actions/10.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Verb/1/To work.mp3"
     },
     {
       "banglaText": "ঝুং লয়ং",
       "englishText": "Take a shower",
       "imagePath": "assets/actions/11.jpg",
-      "audioPath": "audio/actions/11.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Verb/1/Take a shower.mp3"
     },
     {
       "banglaText": "মাত সান",
       "englishText": "Dry your body",
       "imagePath": "assets/actions/12.jpg",
-      "audioPath": "audio/actions/12.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Verb/1/Dry your body.mp3"
     },
     {
       "banglaText": "চয়োক সাম",
       "englishText": "Change your clothes",
       "imagePath": "assets/actions/13.jpg",
-      "audioPath": "audio/actions/13.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Verb/1/Change your clothes.mp3"
     },
     {
       "banglaText": "ঝুই থাউ",
       "englishText": "Dry your hair",
       "imagePath": "assets/actions/14.jpg",
-      "audioPath": "audio/actions/14.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Verb/1/Dry your hair.mp3"
     },
     {
       "banglaText": "চছ থাউ",
       "englishText": "Comb your hair",
       "imagePath": "assets/actions/15.jpg",
-      "audioPath": "audio/actions/15.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Verb/1/Comb your hair.mp3"
     },
     {
       "banglaText": "কিন মিন",
       "englishText": "Meet",
       "imagePath": "assets/actions/16.jpg",
-      "audioPath": "audio/actions/16.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Verb/1/Meet.mp3"
     },
     {
       "banglaText": "কং",
       "englishText": "Talk",
       "imagePath": "assets/actions/17.jpg",
-      "audioPath": "audio/actions/17.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Verb/1/Talk.mp3"
     },
     {
       "banglaText": "ঝয়ং ক",
       "englishText": "Sing",
       "imagePath": "assets/actions/18.jpg",
-      "audioPath": "audio/actions/18.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Verb/1/Sing.mp3"
     },
     {
       "banglaText": "ইয়াও সেক",
       "englishText": "Take a rest",
       "imagePath": "assets/actions/19.jpg",
-      "audioPath": "audio/actions/19.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Verb/1/Take a rest.mp3"
     },
     {
       "banglaText": "হাক হাউ হাক মিন",
       "englishText": "Get angry",
       "imagePath": "assets/actions/20.jpg",
-      "audioPath": "audio/actions/20.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Verb/1/Get angry.mp3"
     }
   ];
   AudioPlayer? audioPlayer;

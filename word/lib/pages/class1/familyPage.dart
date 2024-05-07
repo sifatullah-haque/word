@@ -22,7 +22,7 @@ class _FamilyPageState extends State<FamilyPage> {
     {
       'banglaText': 'লেই',
       'englishText': 'You',
-      'imagePath': 'assets/familyPage/1.png',
+      'imagePath': 'assets/familyPage/you.png',
       'audioPath': 'Cantonese_Audio/Class1/Family/1/You.mp3'
     },
     {
@@ -64,67 +64,67 @@ class _FamilyPageState extends State<FamilyPage> {
     {
       'banglaText': 'পা পা',
       'englishText': 'Father/Dad',
-      'imagePath': 'assets/familyPage/8.jpeg',
+      'imagePath': 'assets/familyPage/father.png',
       'audioPath': 'Cantonese_Audio/Class1/Family/1/Father.mp3'
     },
     {
       'banglaText': 'মা মা',
       'englishText': 'Mother/Mom',
-      'imagePath': 'assets/familyPage/9.jpeg',
+      'imagePath': 'assets/familyPage/mother.png',
       'audioPath': 'Cantonese_Audio/Class1/Family/1/Grandmother.mp3'
     },
     {
       'banglaText': 'চাই',
       'englishText': 'Son',
-      'imagePath': 'assets/familyPage/10.jpeg',
+      'imagePath': 'assets/familyPage/11.jpeg',
       'audioPath': 'Cantonese_Audio/Class1/Family/1/Son.mp3'
     },
     {
       'banglaText': 'লই',
       'englishText': 'Daughter',
-      'imagePath': 'assets/familyPage/11.jpeg',
+      'imagePath': 'assets/familyPage/10.jpeg',
       'audioPath': 'Cantonese_Audio/Class1/Family/1/Daughter.mp3'
     },
     {
       'banglaText': 'কো কো /ছাইলো',
       'englishText': 'Elder Brother',
-      'imagePath': 'assets/familyPage/12.jpeg',
+      'imagePath': 'assets/familyPage/elder_brother.png',
       'audioPath': 'Cantonese_Audio/Class1/Family/1/Elder_Brother.mp3'
     },
     {
       'banglaText': 'ছিউচে / সাই মুই',
       'englishText': 'Elder Sister',
-      'imagePath': 'assets/familyPage/13.jpeg',
+      'imagePath': 'assets/familyPage/elder_sister.png',
       'audioPath': 'Cantonese_Audio/Class1/Family/1/Elder_Sister.mp3'
     },
     {
       'banglaText': 'সিং সান',
       'englishText': 'Sir',
-      'imagePath': 'assets/familyPage/14.jpeg',
+      'imagePath': 'assets/familyPage/sir.png',
       'audioPath': 'Cantonese_Audio/Class1/Family/1/Sir.mp3'
     },
     {
       'banglaText': 'থাই থাই',
       'englishText': 'Madam',
-      'imagePath': 'assets/familyPage/15.jpeg',
+      'imagePath': 'assets/familyPage/madam.png',
       'audioPath': 'Cantonese_Audio/Class1/Family/1/Madam.mp3'
     },
     {
       'banglaText': 'সুই ইয়ে',
       'englishText': 'Sir (Younger)',
-      'imagePath': 'assets/familyPage/16.jpeg',
+      'imagePath': 'assets/familyPage/sir_younger.png',
       'audioPath': 'Cantonese_Audio/Class1/Family/1/Sir_Younger.mp3'
     },
     {
       'banglaText': 'ছিউচে',
       'englishText': 'Miss',
-      'imagePath': 'assets/familyPage/17.jpeg',
+      'imagePath': 'assets/familyPage/miss.png',
       'audioPath': 'Cantonese_Audio/Class1/Family/1/Miss.mp3'
     },
     {
       'banglaText': 'কু চ্যুই',
       'englishText': 'Employee',
-      'imagePath': 'assets/familyPage/18.jpeg',
+      'imagePath': 'assets/familyPage/employee.png',
       'audioPath': 'Cantonese_Audio/Class1/Family/1/Employee.mp3'
     },
   ];

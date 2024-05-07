@@ -17,61 +17,61 @@ class _AccessoriesState extends State<Accessories> {
       "banglaText": "ফাত ক্যাপ",
       "englishText": "Clip",
       "imagePath": "assets/accessories/1.jpg",
-      "audioPath": "audio/accessories/1.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Accessories/1/Clip.mp3"
     },
     {
       "banglaText": "আন কেং",
       "englishText": "Glasses",
       "imagePath": "assets/accessories/2.jpg",
-      "audioPath": "audio/accessories/2.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Accessories/1/Glasses.mp3"
     },
     {
       "banglaText": "তাই ইয়ং আন কেং",
       "englishText": "Sun glasses",
       "imagePath": "assets/accessories/3.jpg",
-      "audioPath": "audio/accessories/3.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Accessories/1/Sun glasses.mp3"
     },
     {
       "banglaText": "কেয়ং লিন",
       "englishText": "Necklace",
       "imagePath": "assets/accessories/4.jpg",
-      "audioPath": "audio/accessories/4.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Accessories/1/Necklace.mp3"
     },
     {
       "banglaText": "ইয়ু ওয়ান",
       "englishText": "Earring",
       "imagePath": "assets/accessories/5.jpg",
-      "audioPath": "audio/accessories/5.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Accessories/1/Earring.mp3"
     },
     {
       "banglaText": "সাউ পিউ",
       "englishText": "Watch",
       "imagePath": "assets/accessories/6.jpg",
-      "audioPath": "audio/accessories/6.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Accessories/1/Watch.mp3"
     },
     {
       "banglaText": "সাই তয়",
       "englishText": "Hand bag",
       "imagePath": "assets/accessories/7.jpg",
-      "audioPath": "audio/accessories/7.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Accessories/1/Hand bag.mp3"
     },
     {
       "banglaText": "আন পাউ",
       "englishText": "Wallets",
       "imagePath": "assets/accessories/8.jpg",
-      "audioPath": "audio/accessories/8.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Accessories/1/Wallets.mp3"
     },
     {
       "banglaText": "আন সি পাউ",
       "englishText": "Briefcase",
       "imagePath": "assets/accessories/9.jpg",
-      "audioPath": "audio/accessories/9.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Accessories/1/Briefcase.mp3"
     },
     {
       "banglaText": "পুই লং",
       "englishText": "Back pack",
       "imagePath": "assets/accessories/10.jpg",
-      "audioPath": "audio/accessories/10.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Accessories/1/Back pack.mp3"
     }
   ];
   AudioPlayer? audioPlayer;

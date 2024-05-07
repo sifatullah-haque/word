@@ -16,103 +16,103 @@ class _ColorsPageState extends State<ColorsPage> {
     {
       'banglaText': 'আন ছেক',
       'englishText': 'Color',
-      'imagePath': 'assets/familyPage/2.jpeg',
+      'imagePath': 'assets/images/colors/color.png',
       'audioPath': 'Cantonese_Audio/Class1/Colors/1/Color.mp3'
     },
     {
       'banglaText': 'ছয় ছেক',
       'englishText': 'Colorful',
-      'imagePath': 'assets/familyPage/1.png',
+      'imagePath': 'assets/images/colors/colorful.png',
       'audioPath': 'Cantonese_Audio/Class1/Colors/1/Colorful.mp3'
     },
     {
       'banglaText': 'হাক ছেক',
       'englishText': 'Black',
-      'imagePath': 'assets/familyPage/3.jpeg',
+      'imagePath': 'assets/images/colors/black.png',
       'audioPath': 'Cantonese_Audio/Class1/Colors/1/Black.mp3'
     },
     {
       'banglaText': 'পা   ছেক',
       'englishText': 'White',
-      'imagePath': 'assets/familyPage/4.jpeg',
+      'imagePath': 'assets/images/colors/white.png',
       'audioPath': 'Cantonese_Audio/Class1/Colors/1/White.mp3'
     },
     {
       'banglaText': 'ফুই ছেক',
       'englishText': 'Grey',
-      'imagePath': 'assets/familyPage/5.jpeg',
+      'imagePath': 'assets/images/colors/grey.png',
       'audioPath': 'Cantonese_Audio/Class1/Colors/1/Grey.mp3'
     },
     {
       'banglaText': 'হোং ছেক',
       'englishText': 'Red',
-      'imagePath': 'assets/familyPage/6.jpeg',
+      'imagePath': 'assets/images/colors/red.png',
       'audioPath': 'Cantonese_Audio/Class1/Colors/1/Red.mp3'
     },
     {
       'banglaText': 'ঝাং ছেক',
       'englishText': 'Orange',
-      'imagePath': 'assets/familyPage/7.jpeg',
+      'imagePath': 'assets/images/colors/orange.png',
       'audioPath': 'Cantonese_Audio/Class1/Colors/1/Orange.mp3'
     },
     {
       'banglaText': 'ওয়াং ছেক',
       'englishText': 'Yellow',
-      'imagePath': 'assets/familyPage/8.jpeg',
+      'imagePath': 'assets/images/colors/yellow.png',
       'audioPath': 'Cantonese_Audio/Class1/Colors/1/Yellow.mp3'
     },
     {
       'banglaText': 'ফুই ছেক',
       'englishText': 'Grey',
-      'imagePath': 'assets/familyPage/9.jpeg',
+      'imagePath': 'assets/images/colors/grey.png',
       'audioPath': 'Cantonese_Audio/Class1/Colors/1/Grey.mp3'
     },
     {
       'banglaText': 'লাম ছেক',
       'englishText': 'Blue',
-      'imagePath': 'assets/familyPage/10.jpeg',
+      'imagePath': 'assets/images/colors/blue.png',
       'audioPath': 'Cantonese_Audio/Class1/Colors/1/Blue.mp3'
     },
     {
       'banglaText': 'চি ছেক',
       'englishText': 'Purple',
-      'imagePath': 'assets/familyPage/11.jpeg',
+      'imagePath': 'assets/images/colors/purple.png',
       'audioPath': 'Cantonese_Audio/Class1/Colors/1/Purple.mp3'
     },
     {
       'banglaText': 'ছাম  ছেক',
       'englishText': 'Dark',
-      'imagePath': 'assets/familyPage/12.jpeg',
+      'imagePath': 'assets/images/colors/dark.png',
       'audioPath': 'Cantonese_Audio/Class1/Colors/1/Dark.mp3'
     },
     {
       'banglaText': 'ছিন ছেক',
       'englishText': 'Light',
-      'imagePath': 'assets/familyPage/13.jpeg',
+      'imagePath': 'assets/images/colors/lite.png',
       'audioPath': 'Cantonese_Audio/Class1/Colors/1/Light.mp3'
     },
     {
       'banglaText': 'কাম ছেক',
       'englishText': 'Gold',
-      'imagePath': 'assets/familyPage/14.jpeg',
+      'imagePath': 'assets/images/colors/yellow.png',
       'audioPath': 'Cantonese_Audio/Class1/Colors/1/Gold.mp3'
     },
     {
       'banglaText': 'নান ছেক',
       'englishText': 'Silver',
-      'imagePath': 'assets/familyPage/15.jpeg',
+      'imagePath': 'assets/images/colors/silver.png',
       'audioPath': 'Cantonese_Audio/Class1/Colors/1/Silver.mp3'
     },
     {
       'banglaText': 'ফান হং ছেক',
       'englishText': 'Pink',
-      'imagePath': 'assets/familyPage/16.jpeg',
+      'imagePath': 'assets/images/colors/pink.png',
       'audioPath': 'Cantonese_Audio/Class1/Colors/1/Pink.mp3'
     },
     {
       'banglaText': 'ফেই ছেক',
       'englishText': 'Brown',
-      'imagePath': 'assets/familyPage/17.jpeg',
+      'imagePath': 'assets/images/colors/brown.png',
       'audioPath': 'Cantonese_Audio/Class1/Colors/1/Brown.mp3'
     },
   ];

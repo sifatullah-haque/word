@@ -17,109 +17,110 @@ class _FamilyPageState extends State<ToiletArticles> {
       "banglaText": "ঝি ছো",
       "englishText": "Toilet",
       "imagePath": "assets/household/13.jpg",
-      "audioPath": "audio/household/13.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Toilet/1/Toilet.mp3"
     },
     {
       "banglaText": "ঝি চি",
       "englishText": "Toilet paper",
       "imagePath": "assets/household/14.jpg",
-      "audioPath": "audio/household/14.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Toilet/1/Toilet paper.mp3"
     },
     {
       "banglaText": "ঝি চি কা",
       "englishText": "Toilet paper holder",
       "imagePath": "assets/household/15.jpg",
-      "audioPath": "audio/household/15.mp3"
+      "audioPath":
+          "Cantonese_Audio/Sheet_Master/Toilet/1/Toilet paper holder.mp3"
     },
     {
       "banglaText": "ছাই ছাই পান",
       "englishText": "Washbasins",
       "imagePath": "assets/household/16.jpg",
-      "audioPath": "audio/household/16.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Toilet/1/Washbasins.mp3"
     },
     {
       "banglaText": "মোকান",
       "englishText": "Towel",
       "imagePath": "assets/household/17.jpg",
-      "audioPath": "audio/household/17.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Toilet/1/Towel.mp3"
     },
     {
       "banglaText": "মোকান  কা",
       "englishText": "Towel rack",
       "imagePath": "assets/household/18.jpg",
-      "audioPath": "audio/household/18.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Toilet/1/Towel rack.mp3"
     },
     {
       "banglaText": "আ ঝাত",
       "englishText": "Tooth brush",
       "imagePath": "assets/household/19.jpg",
-      "audioPath": "audio/household/19.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Toilet/1/Tooth brush.mp3"
     },
     {
       "banglaText": "ngaa gou",
       "englishText": "Toothpaste",
       "imagePath": "assets/household/20.jpg",
-      "audioPath": "audio/household/20.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Toilet/1/Toothpaste.mp3"
     },
     {
       "banglaText": "মুক জক লউ",
       "englishText": "Shower jel",
       "imagePath": "assets/household/21.jpg",
-      "audioPath": "audio/household/21.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Toilet/1/Shower jel.mp3"
     },
     {
       "banglaText": "ফান কা",
       "englishText": "Soap",
       "imagePath": "assets/household/22.jpg",
-      "audioPath": "audio/household/22.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Toilet/1/Soap.mp3"
     },
     {
       "banglaText": "ছাই থাও ছয়",
       "englishText": "Shampoo",
       "imagePath": "assets/household/23.jpg",
-      "audioPath": "audio/household/23.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Toilet/1/Shampoo.mp3"
     },
     {
       "banglaText": "উফা সয়",
       "englishText": "Conditioner",
       "imagePath": "assets/household/24.jpg",
-      "audioPath": "audio/household/24.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Toilet/1/Conditioner.mp3"
     },
     {
       "banglaText": "ঝাত",
       "englishText": "Brush",
       "imagePath": "assets/household/25.jpg",
-      "audioPath": "audio/household/25.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Toilet/1/Brush.mp3"
     },
     {
       "banglaText": "ঝিত সেই লউ",
       "englishText": "Water heater",
       "imagePath": "assets/household/26.jpg",
-      "audioPath": "audio/household/26.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Toilet/1/Water heater.mp3"
     },
     {
       "banglaText": "ঝুক কক",
       "englishText": "Bathtub",
       "imagePath": "assets/household/27.jpg",
-      "audioPath": "audio/household/27.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Toilet/1/Bathtub.mp3"
     },
     {
       "banglaText": "সয় থং",
       "englishText": "Bucket",
       "imagePath": "assets/household/28.jpg",
-      "audioPath": "audio/household/28.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Toilet/1/Bucket.mp3"
     },
     {
       "banglaText": "তেই থো",
       "englishText": "Mop",
       "imagePath": "assets/household/29.jpg",
-      "audioPath": "audio/household/29.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Toilet/1/Mop.mp3"
     },
     {
       "banglaText": "তেই পো",
       "englishText": "Ground cloth",
       "imagePath": "assets/household/30.jpg",
-      "audioPath": "audio/household/30.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Toilet/1/Ground cloth.mp3"
     },
   ];
   AudioPlayer? audioPlayer;

@@ -17,49 +17,49 @@ class _FamilyPageState extends State<SoupBases> {
       "banglaText": "ফা সাং",
       "englishText": "Peanut",
       "imagePath": "assets/foods/1.jpg",
-      "audioPath": "audio/foods/1.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Soup/1/Peanut.mp3"
     },
     {
       "banglaText": "ওং তাউ",
       "englishText": "Soy beans",
       "imagePath": "assets/foods/2.jpg",
-      "audioPath": "audio/foods/2.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Soup/1/Soy beans.mp3"
     },
     {
       "banglaText": "হোং তাঊ",
       "englishText": "Red beans",
       "imagePath": "assets/foods/3.jpg",
-      "audioPath": "audio/foods/3.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Soup/1/Red beans.mp3"
     },
     {
       "banglaText": "কন হউ চি",
       "englishText": "Dry oyster",
       "imagePath": "assets/foods/4.jpg",
-      "audioPath": "audio/foods/4.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Soup/1/Dry oyster.mp3"
     },
     {
       "banglaText": "হোং চৌ",
       "englishText": "Red date",
       "imagePath": "assets/foods/5.jpg",
-      "audioPath": "audio/foods/5.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Soup/1/Red date.mp3"
     },
     {
       "banglaText": "মাত চৌ",
       "englishText": "Preserved date",
       "imagePath": "assets/foods/6.jpg",
-      "audioPath": "audio/foods/6.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Soup/1/Preserved date.mp3"
     },
     {
       "banglaText": "কৌ",
       "englishText": "Fruit skin",
       "imagePath": "assets/foods/7.jpg",
-      "audioPath": "audio/foods/7.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Soup/1/Fruit skin.mp3"
     },
     {
       "banglaText": "কেয়ং",
       "englishText": "Ginger",
       "imagePath": "assets/foods/8.jpg",
-      "audioPath": "audio/foods/8.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Soup/1/Ginger.mp3"
     }
   ];
   AudioPlayer? audioPlayer;

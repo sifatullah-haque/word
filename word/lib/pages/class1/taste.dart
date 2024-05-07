@@ -17,73 +17,73 @@ class _BodyState extends State<Taste> {
       'banglaText': 'মেই',
       'englishText': 'Taste',
       'imagePath': 'assets/familyPage/2.jpeg',
-      'audioPath': 'audio/1.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Taste/1/Taste.mp3'
     },
     {
       'banglaText': 'থিম',
       'englishText': 'Sweet',
       'imagePath': 'assets/familyPage/1.png',
-      'audioPath': 'audio/2.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Taste/1/Sweet.mp3'
     },
     {
       'banglaText': 'হোউ থিম',
       'englishText': 'Too sweet',
       'imagePath': 'assets/familyPage/3.jpeg',
-      'audioPath': 'audio/3.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Taste/1/Too_sweet.mp3'
     },
     {
       'banglaText': 'উম কাউ থিম',
       'englishText': 'Not sweet enough',
       'imagePath': 'assets/familyPage/4.jpeg',
-      'audioPath': 'audio/4.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Taste/1/Not_sweet _enugh.mp3'
     },
     {
       'banglaText': 'স্যুন',
       'englishText': 'Sour',
       'imagePath': 'assets/familyPage/5.jpeg',
-      'audioPath': 'audio/5.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Taste/1/Sour.mp3'
     },
     {
       'banglaText': 'ফু',
       'englishText': 'Bitter',
       'imagePath': 'assets/familyPage/6.jpeg',
-      'audioPath': 'audio/6.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Taste/1/Bitter.mp3'
     },
     {
       'banglaText': 'লাত',
       'englishText': 'Spicy',
       'imagePath': 'assets/familyPage/7.jpeg',
-      'audioPath': 'audio/7.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Taste/1/Spicy.mp3'
     },
     {
       'banglaText': 'হাম',
       'englishText': 'Salty',
       'imagePath': 'assets/familyPage/8.jpeg',
-      'audioPath': 'audio/8.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Taste/1/Saltly.mp3'
     },
     {
       'banglaText': 'উম কাউ হাম',
       'englishText': 'Not salty enough',
       'imagePath': 'assets/familyPage/9.jpeg',
-      'audioPath': 'audio/9.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Taste/1/Not_salt_enough.mp3'
     },
     {
       'banglaText': 'হোউ হাম',
       'englishText': 'Too salty',
       'imagePath': 'assets/familyPage/10.jpeg',
-      'audioPath': 'audio/10.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Taste/1/Too_salty.mp3'
     },
     {
       'banglaText': 'হোউ হয়ং',
       'englishText': 'Good smelling',
       'imagePath': 'assets/familyPage/11.jpeg',
-      'audioPath': 'audio/11.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Taste/1/Good_smelting.mp3'
     },
     {
       'banglaText': 'হোউ চাউ',
       'englishText': 'Smelly',
       'imagePath': 'assets/familyPage/12.jpeg',
-      'audioPath': 'audio/12.mp3'
+      'audioPath': 'Cantonese_Audio/Class1/Taste/1/Smelly.mp3'
     },
   ];
   AudioPlayer? audioPlayer;

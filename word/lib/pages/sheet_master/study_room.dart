@@ -17,25 +17,25 @@ class _FamilyPageState extends State<StudyRoom> {
       "banglaText": "স্যু ফং",
       "englishText": "Study room",
       "imagePath": "assets/study_room/1.jpg",
-      "audioPath": "audio/study_room/1.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Study/1/Study room.mp3"
     },
     {
       "banglaText": "স্য থয়",
       "englishText": "Desk",
       "imagePath": "assets/study_room/2.jpg",
-      "audioPath": "audio/study_room/2.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Study/1/Desk.mp3"
     },
     {
       "banglaText": "থয় তাং",
       "englishText": "Table Lamp",
       "imagePath": "assets/study_room/3.jpg",
-      "audioPath": "audio/study_room/3.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Study/1/Table Lamp.mp3"
     },
     {
       "banglaText": "তিনোও",
       "englishText": "Computer",
       "imagePath": "assets/study_room/4.jpg",
-      "audioPath": "audio/study_room/4.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Study/1/Computer.mp3"
     },
   ];
   AudioPlayer? audioPlayer;

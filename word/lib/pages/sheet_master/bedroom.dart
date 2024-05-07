@@ -17,103 +17,103 @@ class _BedroomState extends State<Bedroom> {
       "banglaText": "ছয় ফং",
       "englishText": "Bedroom",
       "imagePath": "assets/bedroom/1.jpg",
-      "audioPath": "audio/bedroom/1.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Bedroom/1/Bedroom.mp3"
     },
     {
       "banglaText": "পি পি ফং",
       "englishText": "Baby's room",
       "imagePath": "assets/bedroom/2.jpg",
-      "audioPath": "audio/bedroom/2.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Bedroom/1/Baby room.mp3"
     },
     {
       "banglaText": "চয় মাত ফং",
       "englishText": "Store room",
       "imagePath": "assets/bedroom/3.jpg",
-      "audioPath": "audio/bedroom/3.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Bedroom/1/Store room.mp3"
     },
     {
       "banglaText": "ঝং",
       "englishText": "Bed",
       "imagePath": "assets/bedroom/4.jpg",
-      "audioPath": "audio/bedroom/4.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Bedroom/1/Bed.mp3"
     },
     {
       "banglaText": "ছংতাউ কেই",
       "englishText": "Beside cabinet",
       "imagePath": "assets/bedroom/5.jpg",
-      "audioPath": "audio/bedroom/5.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Bedroom/1/Beside cabinet.mp3"
     },
     {
       "banglaText": "ঝং জুক",
       "englishText": "Mattress",
       "imagePath": "assets/bedroom/6.jpg",
-      "audioPath": "audio/bedroom/6.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Bedroom/1/Mattress.mp3"
     },
     {
       "banglaText": "ঝং তান",
       "englishText": "Sheet",
       "imagePath": "assets/bedroom/7.jpg",
-      "audioPath": "audio/bedroom/7.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Bedroom/1/Sheet.mp3"
     },
     {
       "banglaText": "চাম থাও",
       "englishText": "Pillow",
       "imagePath": "assets/bedroom/8.jpg",
-      "audioPath": "audio/bedroom/8.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Bedroom/1/Pillow.mp3"
     },
     {
       "banglaText": "চাম থাও তয়",
       "englishText": "Pillowcases",
       "imagePath": "assets/bedroom/9.jpg",
-      "audioPath": "audio/bedroom/9.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Bedroom/1/Pillowcases.mp3"
     },
     {
       "banglaText": "পেই তয়",
       "englishText": "Quilt Cover",
       "imagePath": "assets/bedroom/10.jpg",
-      "audioPath": "audio/bedroom/10.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Bedroom/1/Quilt Cover.mp3"
     },
     {
       "banglaText": "মিন পেই",
       "englishText": "Quilt",
       "imagePath": "assets/bedroom/11.jpg",
-      "audioPath": "audio/bedroom/11.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Bedroom/1/Quilt.mp3"
     },
     {
       "banglaText": "মোকান পেই",
       "englishText": "Towel blanket",
       "imagePath": "assets/bedroom/12.jpg",
-      "audioPath": "audio/bedroom/12.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Bedroom/1/Towel blanket.mp3"
     },
     {
       "banglaText": "ফেই",
       "englishText": "Blanket",
       "imagePath": "assets/bedroom/13.jpg",
-      "audioPath": "audio/bedroom/13.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Bedroom/1/Blanket.mp3"
     },
     {
       "banglaText": "চিপ ফেই",
       "englishText": "Fold the blanket",
       "imagePath": "assets/bedroom/14.jpg",
-      "audioPath": "audio/bedroom/14.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Bedroom/1/Fold the blanket.mp3"
     },
     {
       "banglaText": "জি কোয়াই",
       "englishText": "Wardrobe",
       "imagePath": "assets/bedroom/15.jpg",
-      "audioPath": "audio/bedroom/15.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Bedroom/1/Wardrobe.mp3"
     },
     {
       "banglaText": "কোয়ই থং",
       "englishText": "Drawer",
       "imagePath": "assets/bedroom/16.jpg",
-      "audioPath": "audio/bedroom/16.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Bedroom/1/Drawer.mp3"
     },
     {
       "banglaText": "ই কা",
       "englishText": "Hanger",
       "imagePath": "assets/bedroom/17.jpg",
-      "audioPath": "audio/bedroom/17.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Bedroom/1/Hanger.mp3"
     },
   ];
   AudioPlayer? audioPlayer;

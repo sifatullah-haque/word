@@ -16,133 +16,133 @@ class _numberPageState extends State<NumberPage> {
     {
       'banglaText': 'লেং',
       'englishText': 'Zero',
-      'imagePath': 'assets/familyPage/2.jpeg',
+      'imagePath': 'assets/images/numbers/0.png',
       'audioPath': 'Cantonese_Audio/Class1/Number/0/Zero.mp3'
     },
     {
       'banglaText': 'ইয়াত',
       'englishText': 'One',
-      'imagePath': 'assets/familyPage/1.png',
+      'imagePath': 'assets/images/numbers/one.png',
       'audioPath': 'Cantonese_Audio/Class1/Number/0/One.mp3'
     },
     {
       'banglaText': 'ই',
       'englishText': 'Two',
-      'imagePath': 'assets/familyPage/3.jpeg',
+      'imagePath': 'assets/images/numbers/2.png',
       'audioPath': 'Cantonese_Audio/Class1/Number/0/Two.mp3'
     },
     {
       'banglaText': 'সাম',
       'englishText': 'Three',
-      'imagePath': 'assets/familyPage/4.jpeg',
+      'imagePath': 'assets/images/numbers/3.png',
       'audioPath': 'Cantonese_Audio/Class1/Number/0/Three.mp3'
     },
     {
       'banglaText': 'সেই',
       'englishText': 'Four',
-      'imagePath': 'assets/familyPage/5.jpeg',
+      'imagePath': 'assets/images/numbers/4.png',
       'audioPath': 'Cantonese_Audio/Class1/Number/0/Four.mp3'
     },
     {
       'banglaText': 'উম',
       'englishText': 'Five',
-      'imagePath': 'assets/familyPage/1.png',
+      'imagePath': 'assets/images/numbers/5.png',
       'audioPath': 'Cantonese_Audio/Class1/Number/0/Five.mp3'
     },
     {
       'banglaText': 'লোক',
       'englishText': 'Six',
-      'imagePath': 'assets/familyPage/6.jpeg',
+      'imagePath': 'assets/images/numbers/6.png',
       'audioPath': 'Cantonese_Audio/Class1/Number/0/Six.mp3'
     },
     {
       'banglaText': 'ঝাত',
       'englishText': 'Seven',
-      'imagePath': 'assets/familyPage/7.jpeg',
+      'imagePath': 'assets/images/numbers/7.png',
       'audioPath': 'Cantonese_Audio/Class1/Number/0/Seven.mp3'
     },
     {
       'banglaText': 'পা',
       'englishText': 'Eight',
-      'imagePath': 'assets/familyPage/8.jpeg',
+      'imagePath': 'assets/images/numbers/8.png',
       'audioPath': 'Cantonese_Audio/Class1/Number/0/Eight.mp3'
     },
     {
       'banglaText': 'কাউ',
       'englishText': 'Nine',
-      'imagePath': 'assets/familyPage/9.jpeg',
+      'imagePath': 'assets/images/numbers/9.png',
       'audioPath': 'Cantonese_Audio/Class1/Number/0/Nine.mp3'
     },
     {
       'banglaText': 'ছাপ',
       'englishText': 'Ten',
-      'imagePath': 'assets/familyPage/10.jpeg',
+      'imagePath': 'assets/images/numbers/10.png',
       'audioPath': 'Cantonese_Audio/Class1/Number/0/Ten.mp3'
     },
     {
       'banglaText': 'ছাপ ইয়াত',
       'englishText': 'Eleven',
-      'imagePath': 'assets/familyPage/11.jpeg',
+      'imagePath': 'assets/images/numbers/11.png',
       'audioPath': 'Cantonese_Audio/Class1/Number/0/Eleven.mp3'
     },
     {
       'banglaText': 'ছাপ ই',
       'englishText': 'Twelve',
-      'imagePath': 'assets/familyPage/12.jpeg',
+      'imagePath': 'assets/images/numbers/12.png',
       'audioPath': 'Cantonese_Audio/Class1/Number/0/Twelve.mp3'
     },
     {
       'banglaText': 'ছাপ সাম',
       'englishText': 'Thirteen',
-      'imagePath': 'assets/familyPage/13.jpeg',
+      'imagePath': 'assets/images/numbers/13.png',
       'audioPath': 'Cantonese_Audio/Class1/Number/0/Thirteen.mp3'
     },
     {
       'banglaText': 'ই ছাপ',
       'englishText': 'Twenty',
-      'imagePath': 'assets/familyPage/14.jpeg',
+      'imagePath': 'assets/images/numbers/20.png',
       'audioPath': 'Cantonese_Audio/Class1/Number/0/Twenty.mp3'
     },
     {
       'banglaText': 'ই  ছাপ ইয়াত',
       'englishText': 'Twenty-One',
-      'imagePath': 'assets/familyPage/15.jpeg',
+      'imagePath': 'assets/images/numbers/21.png',
       'audioPath': 'Cantonese_Audio/Class1/Number/0/21.mp3'
     },
     {
       'banglaText': 'ছাম ছাপ',
       'englishText': 'Thirty',
-      'imagePath': 'assets/familyPage/16.jpeg',
+      'imagePath': 'assets/images/numbers/30.png',
       'audioPath': 'Cantonese_Audio/Class1/Number/0/Thirty.mp3'
     },
     {
       'banglaText': 'ছাম ছাপ ছাম',
       'englishText': 'Thirty-Three',
-      'imagePath': 'assets/familyPage/17.jpeg',
+      'imagePath': 'assets/images/numbers/33.png',
       'audioPath': 'Cantonese_Audio/Class1/Number/0/33.mp3'
     },
     {
       'banglaText': 'ছেই ছাপ',
       'englishText': 'Forty',
-      'imagePath': 'assets/familyPage/18.jpeg',
+      'imagePath': 'assets/images/numbers/40.png',
       'audioPath': 'Cantonese_Audio/Class1/Number/0/Forty.mp3'
     },
     {
       'banglaText': 'ছেই ছাপ ছেই',
       'englishText': 'Forty-Four',
-      'imagePath': 'assets/familyPage/19.jpeg',
+      'imagePath': 'assets/images/numbers/44.png',
       'audioPath': 'Cantonese_Audio/Class1/Number/0/44.mp3'
     },
     {
       'banglaText': 'উম ছাপ',
       'englishText': 'Fifty',
-      'imagePath': 'assets/familyPage/20.jpeg',
+      'imagePath': 'assets/images/numbers/50.png',
       'audioPath': 'Cantonese_Audio/Class1/Number/0/Fifty.mp3'
     },
     {
       'banglaText': 'উম ছাপ উম',
       'englishText': 'Fifty-Five',
-      'imagePath': 'assets/familyPage/21.jpeg',
+      'imagePath': 'assets/images/numbers/55.png',
       'audioPath': 'Cantonese_Audio/Class1/Number/0/55.mp3'
     },
   ];

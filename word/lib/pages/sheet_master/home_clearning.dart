@@ -17,37 +17,40 @@ class _FamilyPageState extends State<HomeCleaning> {
       "banglaText": "ঝেং কিত",
       "englishText": "Clean",
       "imagePath": "assets/cleaning/1.jpg",
-      "audioPath": "audio/cleaning/1.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Home_Cleaning/5/Clean.mp3"
     },
     {
       "banglaText": "মাত ইয়ে",
       "englishText": "Wipe",
       "imagePath": "assets/cleaning/2.jpg",
-      "audioPath": "audio/cleaning/2.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Home_Cleaning/5/Wipe.mp3"
     },
     {
       "banglaText": "সোতেই",
       "englishText": "Sweep the floor",
       "imagePath": "assets/cleaning/3.jpg",
-      "audioPath": "audio/cleaning/3.mp3"
+      "audioPath":
+          "Cantonese_Audio/Sheet_Master/Home_Cleaning/5/Sweep the floor.mp3"
     },
     {
       "banglaText": "থো তেই",
       "englishText": "Mop the floor",
       "imagePath": "assets/cleaning/4.jpg",
-      "audioPath": "audio/cleaning/4.mp3"
+      "audioPath":
+          "Cantonese_Audio/Sheet_Master/Home_Cleaning/5/Mop the floor.mp3"
     },
     {
       "banglaText": "মাত ঝয়ং",
       "englishText": "Clean the window",
       "imagePath": "assets/cleaning/5.jpg",
-      "audioPath": "audio/cleaning/5.mp3"
+      "audioPath":
+          "Cantonese_Audio/Sheet_Master/Home_Cleaning/5/Clean the window.mp3"
     },
     {
       "banglaText": "খাপ ঝানকেই",
       "englishText": "Vacuum",
       "imagePath": "assets/cleaning/6.jpg",
-      "audioPath": "audio/cleaning/6.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Home_Cleaning/5/Vacuum.mp3"
     },
   ];
   AudioPlayer? audioPlayer;

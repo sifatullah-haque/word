@@ -17,31 +17,31 @@ class _FamilyPageState extends State<SeaFood> {
       "banglaText": "ইয়্যু",
       "englishText": "Fish",
       "imagePath": "assets/seafood/1.jpg",
-      "audioPath": "audio/seafood/1.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Seafood/1/Fish.mp3"
     },
     {
       "banglaText": "Jau Jyu",
       "englishText": "Squid",
       "imagePath": "assets/seafood/2.jpg",
-      "audioPath": "audio/seafood/2.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Seafood/1/Squid.mp3"
     },
     {
       "banglaText": "হা",
       "englishText": "Shrimp",
       "imagePath": "assets/seafood/3.jpg",
-      "audioPath": "audio/seafood/3.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Seafood/1/shrimp.mp3"
     },
     {
       "banglaText": "হাই",
       "englishText": "Crab",
       "imagePath": "assets/seafood/4.jpg",
-      "audioPath": "audio/seafood/4.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Seafood/1/crab.mp3"
     },
     {
       "banglaText": "ঝাউ সয় ইয়্যু",
       "englishText": "Fresh fish",
       "imagePath": "assets/seafood/5.jpg",
-      "audioPath": "audio/seafood/5.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Seafood/1/Fresh fish.mp3"
     },
   ];
   AudioPlayer? audioPlayer;

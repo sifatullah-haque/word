@@ -16,73 +16,73 @@ class _GreetingsState extends State<Greetings> {
     {
       'banglaText': 'সান লিন ফাই লক',
       'englishText': 'Happy new year',
-      'imagePath': 'assets/familyPage/2.jpeg',
+      'imagePath': 'assets/images/greetings/happy_new.png',
       'audioPath': 'Cantonese_Audio/Class1/Greetings/1/Happy_new_year.mp3'
     },
     {
       'banglaText': 'সান ইয়াত ফাই লক',
       'englishText': 'Happy Birthday',
-      'imagePath': 'assets/familyPage/1.png',
+      'imagePath': 'assets/images/greetings/happy_birthday.png',
       'audioPath': 'Cantonese_Audio/Class1/Greetings/1/Happy_Birthday.mp3'
     },
     {
       'banglaText': 'লেই হোমা',
       'englishText': 'How are you?',
-      'imagePath': 'assets/familyPage/3.jpeg',
+      'imagePath': 'assets/images/greetings/how_are_you.png',
       'audioPath': 'Cantonese_Audio/Class1/Greetings/1/How_are_you_.mp3'
     },
     {
       'banglaText': 'ইয়াপ লেই',
       'englishText': 'Come in',
-      'imagePath': 'assets/familyPage/4.jpeg',
+      'imagePath': 'assets/images/greetings/come_in.png',
       'audioPath': 'Cantonese_Audio/Class1/Greetings/1/come_in.mp3'
     },
     {
       'banglaText': 'ঊমকয় ছাই',
       'englishText': 'Welcome',
-      'imagePath': 'assets/familyPage/5.jpeg',
+      'imagePath': 'assets/images/greetings/welcome.png',
       'audioPath': 'Cantonese_Audio/Class1/Greetings/1/Well_come.mp3'
     },
     {
       'banglaText': 'তো চে সাই',
       'englishText': 'Thank you',
-      'imagePath': 'assets/familyPage/6.jpeg',
+      'imagePath': 'assets/images/greetings/thank_you.png',
       'audioPath': 'Cantonese_Audio/Class1/Greetings/1/Thank_you.mp3'
     },
     {
       'banglaText': 'চয় কিণ',
       'englishText': 'Goodbye',
-      'imagePath': 'assets/familyPage/7.jpeg',
+      'imagePath': 'assets/images/greetings/goodbye.png',
       'audioPath': 'Cantonese_Audio/Class1/Greetings/1/Good_bye.mp3'
     },
     {
       'banglaText': 'মান মান',
       'englishText': 'Go slow',
-      'imagePath': 'assets/familyPage/8.jpeg',
+      'imagePath': 'assets/images/greetings/slow.png',
       'audioPath': 'Cantonese_Audio/Class1/Greetings/1/Go_slow.mp3'
     },
     {
       'banglaText': 'তয়োম চি',
       'englishText': 'Sorry',
-      'imagePath': 'assets/familyPage/9.jpeg',
+      'imagePath': 'assets/images/greetings/sorry.png',
       'audioPath': 'Cantonese_Audio/Class1/Greetings/1/Sorry.mp3'
     },
     {
       'banglaText': 'মই ই  ছি',
       'englishText': 'Never mind',
-      'imagePath': 'assets/familyPage/10.jpeg',
+      'imagePath': 'assets/images/greetings/never_mind.png',
       'audioPath': 'Cantonese_Audio/Class1/Greetings/1/Never_mind.mp3'
     },
     {
       'banglaText': 'উম কয়',
       'englishText': 'Thank you',
-      'imagePath': 'assets/familyPage/11.jpeg',
+      'imagePath': 'assets/images/greetings/thank_you.png',
       'audioPath': 'Cantonese_Audio/Class1/Greetings/1/Thank_you.mp3'
     },
     {
       'banglaText': 'উম সাই হা হে',
       'englishText': 'You are welcome',
-      'imagePath': 'assets/familyPage/12.jpeg',
+      'imagePath': 'assets/images/greetings/welcome.png',
       'audioPath': 'Cantonese_Audio/Class1/Greetings/1/You_are_welcome.mp3'
     },
   ];

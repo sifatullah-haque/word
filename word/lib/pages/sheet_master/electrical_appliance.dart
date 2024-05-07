@@ -17,73 +17,74 @@ class _FamilyPageState extends State<ElectricalAppliance> {
       "banglaText": "খাপ ঝান কেই",
       "englishText": "Vacuum cleaner",
       "imagePath": "assets/household/1.jpg",
-      "audioPath": "audio/household/1.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Electrics/1/Vacuum cleaner.mp3"
     },
     {
       "banglaText": "ছাই ই কেই",
       "englishText": "Washing Machine",
       "imagePath": "assets/household/2.jpg",
-      "audioPath": "audio/household/2.mp3"
+      "audioPath":
+          "Cantonese_Audio/Sheet_Master/Electrics/1/Washing Machine.mp3"
     },
     {
       "banglaText": "ছাই ই ফান",
       "englishText": "Washing powder",
       "imagePath": "assets/household/3.jpg",
-      "audioPath": "audio/household/3.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Electrics/1/Washing powder.mp3"
     },
     {
       "banglaText": "কন ই কেই",
       "englishText": "Dryers",
       "imagePath": "assets/household/4.jpg",
-      "audioPath": "audio/household/4.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Electrics/1/Dryers.mp3"
     },
     {
       "banglaText": "থং সাম পান",
       "englishText": "Ironing Board",
       "imagePath": "assets/household/5.jpg",
-      "audioPath": "audio/household/5.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Electrics/1/Ironing Board.mp3"
     },
     {
       "banglaText": "থং তাও",
       "englishText": "Iron",
       "imagePath": "assets/household/6.jpg",
-      "audioPath": "audio/household/6.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Electrics/1/Iron.mp3"
     },
     {
       "banglaText": "চেং হেই  থং তাও",
       "englishText": "Stream Iron",
       "imagePath": "assets/household/7.jpg",
-      "audioPath": "audio/household/7.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Electrics/1/Stream Iron.mp3"
     },
     {
       "banglaText": "সাউ চাম কেই",
       "englishText": "Radio",
       "imagePath": "assets/household/8.jpg",
-      "audioPath": "audio/household/8.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Electrics/1/Radio.mp3"
     },
     {
       "banglaText": "সাউ  তাই তিন অয়া",
       "englishText": "Mobile phone",
       "imagePath": "assets/household/9.jpg",
-      "audioPath": "audio/household/9.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Electrics/1/Mobile phone.mp3"
     },
     {
       "banglaText": "চা তিন হেই",
       "englishText": "Charger",
       "imagePath": "assets/household/10.jpg",
-      "audioPath": "audio/household/10.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Electrics/1/Charger.mp3"
     },
     {
       "banglaText": "তিন চি",
       "englishText": "Battery",
       "imagePath": "assets/household/11.jpg",
-      "audioPath": "audio/household/11.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Electrics/1/Battery.mp3"
     },
     {
       "banglaText": "সইয়ং কেই",
       "englishText": "Camera",
       "imagePath": "assets/household/12.jpg",
-      "audioPath": "audio/household/12.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Electrics/1/Camera.mp3"
     },
   ];
   AudioPlayer? audioPlayer;

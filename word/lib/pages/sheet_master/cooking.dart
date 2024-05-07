@@ -17,19 +17,20 @@ class _CookingState extends State<Cooking> {
       "banglaText": "মিন চি",
       "englishText": "Minced",
       "imagePath": "assets/cooking/1.jpg",
-      "audioPath": "audio/cooking/1.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Cooking/1/Minced.mp3"
     },
     {
       "banglaText": "ঝিত ঝয়",
       "englishText": "Cut vegetable",
       "imagePath": "assets/cooking/2.jpg",
-      "audioPath": "audio/cooking/2.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Cooking/1/Cut vegetable.mp3"
     },
     {
       "banglaText": "সাই ঝয়",
       "englishText": "Clean the vegetable",
       "imagePath": "assets/cooking/3.jpg",
-      "audioPath": "audio/cooking/3.mp3"
+      "audioPath":
+          "Cantonese_Audio/Sheet_Master/Cooking/1/clean the vegetable.mp3"
     }
   ];
   AudioPlayer? audioPlayer;

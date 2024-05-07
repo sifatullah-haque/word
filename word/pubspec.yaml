@@ -63,9 +63,20 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
+
+  
+  #All the images are added under here
     - assets/
+    - assets/images/directions/
+    - assets/images/weather/
+    - assets/images/colors/
+    - assets/images/body/
+    - assets/images/bodyCare/
+    - assets/images/greetings/
+    - assets/images/numbers/
     - assets/familyPage/
     - assets/audio/
+    #Class 1 audios are added from here,,, all the audio files are added under here
     - assets/Cantonese_Audio/
     - assets/Cantonese_Audio/Class1/
     - assets/Cantonese_Audio/Class1/Body/1/
@@ -75,9 +86,35 @@ flutter:
     - assets/Cantonese_Audio/Class1/Family/1/
     - assets/Cantonese_Audio/Class1/Greetings/1/
     - assets/Cantonese_Audio/Class1/Taste/1/
-    - assets/Cantonese_Audio/Class1/Taste/2/
+ 
     - assets/Cantonese_Audio/Class1/Time/0/
     - assets/Cantonese_Audio/Class1/Weather/0/
+#sheet master audio goes from here... all the audio files are added under here
+    - assets/Cantonese_Audio/Sheet_Master/Bedroom/1/
+    - assets/Cantonese_Audio/Sheet_Master/Body_Care/1/
+    - assets/Cantonese_Audio/Sheet_Master/Clothing/1/
+    - assets/Cantonese_Audio/Sheet_Master/Drinks/1/
+    - assets/Cantonese_Audio/Sheet_Master/Electrics/1/
+    - assets/Cantonese_Audio/Sheet_Master/Food/1/
+    - assets/Cantonese_Audio/Sheet_Master/Fruit/1/
+    - assets/Cantonese_Audio/Sheet_Master/Home_Items/1/
+    - assets/Cantonese_Audio/Sheet_Master/Home_Cleaning/5/
+    - assets/Cantonese_Audio/Sheet_Master/Kitchenware/1/
+    - assets/Cantonese_Audio/Sheet_Master/Living_Creatures/1/
+    - assets/Cantonese_Audio/Sheet_Master/Pet/1/
+    - assets/Cantonese_Audio/Sheet_Master/Places/1/
+    - assets/Cantonese_Audio/Sheet_Master/Seafood/1/
+    - assets/Cantonese_Audio/Sheet_Master/Seasoning/1/
+    - assets/Cantonese_Audio/Sheet_Master/Sickness/1/
+    - assets/Cantonese_Audio/Sheet_Master/Simple/1/
+    - assets/Cantonese_Audio/Sheet_Master/Soup/1/
+    - assets/Cantonese_Audio/Sheet_Master/Study/1/
+    - assets/Cantonese_Audio/Sheet_Master/Toilet/1/
+    - assets/Cantonese_Audio/Sheet_Master/Transportation/1/
+    - assets/Cantonese_Audio/Sheet_Master/Vegetable/1/
+    - assets/Cantonese_Audio/Sheet_Master/Verb/1/
+    - assets/Cantonese_Audio/Sheet_Master/Cooking/1/
+    - assets/Cantonese_Audio/Sheet_Master/Accessories/1/
 
 
 

@@ -17,79 +17,79 @@ class _FamilyPageState extends State<Fruits> {
       "banglaText": "ক চাপ",
       "englishText": "Juice",
       "imagePath": "assets/fruits/1.jpg",
-      "audioPath": "audio/fruits/1.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Fruit/1/Juice.mp3"
     },
     {
       "banglaText": "ঝাং",
       "englishText": "Orange",
       "imagePath": "assets/fruits/2.jpg",
-      "audioPath": "audio/fruits/2.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Fruit/1/Orange.mp3"
     },
     {
       "banglaText": "লেই",
       "englishText": "Pear",
       "imagePath": "assets/fruits/3.jpg",
-      "audioPath": "audio/fruits/3.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Fruit/1/Pear.mp3"
     },
     {
       "banglaText": "ভেং কো",
       "englishText": "Apple",
       "imagePath": "assets/fruits/4.jpg",
-      "audioPath": "audio/fruits/4.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Fruit/1/Apple.mp3"
     },
     {
       "banglaText": "মাত কোয়া",
       "englishText": "Melon",
       "imagePath": "assets/fruits/5.jpg",
-      "audioPath": "audio/fruits/5.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Fruit/1/Melon.mp3"
     },
     {
       "banglaText": "পোলো",
       "englishText": "Pineapple",
       "imagePath": "assets/fruits/6.jpg",
-      "audioPath": "audio/fruits/6.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Fruit/1/Pineapple.mp3"
     },
     {
       "banglaText": "হং চিউ",
       "englishText": "Banan",
       "imagePath": "assets/fruits/7.jpg",
-      "audioPath": "audio/fruits/7.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Fruit/1/Banan.mp3"
     },
     {
       "banglaText": "মংকো",
       "englishText": "Mango",
       "imagePath": "assets/fruits/8.jpg",
-      "audioPath": "audio/fruits/8.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Fruit/1/Mango.mp3"
     },
     {
       "banglaText": "থাই চি",
       "englishText": "Grapes",
       "imagePath": "assets/fruits/9.jpg",
-      "audioPath": "audio/fruits/9.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Fruit/1/Grapes.mp3"
     },
     {
       "banglaText": "সাই কোয়া",
       "englishText": "Watermelon",
       "imagePath": "assets/fruits/10.jpg",
-      "audioPath": "audio/fruits/10.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Fruit/1/Watermelon.mp3"
     },
     {
       "banglaText": "মো কোয়া",
       "englishText": "Papaya",
       "imagePath": "assets/fruits/11.jpg",
-      "audioPath": "audio/fruits/11.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Fruit/1/Papaya.mp3"
     },
     {
       "banglaText": "লেং মং",
       "englishText": "Lemon",
       "imagePath": "assets/fruits/12.jpg",
-      "audioPath": "audio/fruits/12.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Fruit/1/Lemon.mp3"
     },
     {
       "banglaText": "সি তো পেলে",
       "englishText": "Strawberry",
       "imagePath": "assets/fruits/13.jpg",
-      "audioPath": "audio/fruits/13.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Fruit/1/Strawberry.mp3"
     }
   ];
   AudioPlayer? audioPlayer;

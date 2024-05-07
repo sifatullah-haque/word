@@ -17,91 +17,91 @@ class _FamilyPageState extends State<Seasoning> {
       "banglaText": "থং",
       "englishText": "Sugar",
       "imagePath": "assets/foods/9.jpg",
-      "audioPath": "audio/foods/9.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Seasoning/1/Sugar.mp3"
     },
     {
       "banglaText": "ইম",
       "englishText": "Salt",
       "imagePath": "assets/foods/10.jpg",
-      "audioPath": "audio/foods/10.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Seasoning/1/Salt.mp3"
     },
     {
       "banglaText": "সি  ইয়াও",
       "englishText": "Soy sauce",
       "imagePath": "assets/foods/11.jpg",
-      "audioPath": "audio/foods/11.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Seasoning/1/Soy sauce.mp3"
     },
     {
       "banglaText": "লো ঝাউ",
       "englishText": "Dark soy sauce",
       "imagePath": "assets/foods/12.jpg",
-      "audioPath": "audio/foods/12.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Seasoning/1/Dark soy sauce.mp3"
     },
     {
       "banglaText": "সান ফান",
       "englishText": "Cornstarch",
       "imagePath": "assets/foods/13.jpg",
-      "audioPath": "audio/foods/13.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Seasoning/1/Cornstarch.mp3"
     },
     {
       "banglaText": "কাই ফান",
       "englishText": "Chicken Powder",
       "imagePath": "assets/foods/14.jpg",
-      "audioPath": "audio/foods/14.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Seasoning/1/Chicken Powder.mp3"
     },
     {
       "banglaText": "ফা সাং ইয়াও",
       "englishText": "Peanut oil",
       "imagePath": "assets/foods/15.jpg",
-      "audioPath": "audio/foods/15.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Seasoning/1/Peanut oil.mp3"
     },
     {
       "banglaText": "হউ ঝাউ",
       "englishText": "Oyster sauce",
       "imagePath": "assets/foods/16.jpg",
-      "audioPath": "audio/foods/16.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Seasoning/1/Oyster sauce.mp3"
     },
     {
       "banglaText": "মা  ইয়াও",
       "englishText": "Seame oil",
       "imagePath": "assets/foods/17.jpg",
-      "audioPath": "audio/foods/17.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Seasoning/1/Seame oil.mp3"
     },
     {
       "banglaText": "খে চাপ",
       "englishText": "Ketchup",
       "imagePath": "assets/foods/18.jpg",
-      "audioPath": "audio/foods/18.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Seasoning/1/Ketchup.mp3"
     },
     {
       "banglaText": "মাত থং",
       "englishText": "Honey",
       "imagePath": "assets/foods/19.jpg",
-      "audioPath": "audio/foods/19.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Seasoning/1/Honey.mp3"
     },
     {
       "banglaText": "ঝোউ",
       "englishText": "Vinegar",
       "imagePath": "assets/foods/20.jpg",
-      "audioPath": "audio/foods/20.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Seasoning/1/Vinegar.mp3"
     },
     {
       "banglaText": "চাউ",
       "englishText": "Wine",
       "imagePath": "assets/foods/21.jpg",
-      "audioPath": "audio/foods/21.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Seasoning/1/Wine.mp3"
     },
     {
       "banglaText": "উ চিউ ফান",
       "englishText": "Pepper",
       "imagePath": "assets/foods/22.jpg",
-      "audioPath": "audio/foods/22.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Seasoning/1/Peper.mp3"
     },
     {
       "banglaText": "লাত চিউ চয়ং",
       "englishText": "Chili sauce",
       "imagePath": "assets/foods/23.jpg",
-      "audioPath": "audio/foods/23.mp3"
+      "audioPath": "Cantonese_Audio/Sheet_Master/Seasoning/1/Chili sauce.mp3"
     },
   ];
   AudioPlayer? audioPlayer;

@@ -16,115 +16,115 @@ class _directionsState extends State<Directions> {
     {
       'banglaText': 'সয়ং',
       'englishText': 'Up',
-      'imagePath': 'assets/familyPage/2.jpeg',
+      'imagePath': 'assets/images/directions/up.png',
       'audioPath': 'Cantonese_Audio/Class1/Direction/0/Up.mp3'
     },
     {
       'banglaText': 'হা',
       'englishText': 'Down',
-      'imagePath': 'assets/familyPage/1.png',
+      'imagePath': 'assets/images/directions/down.png',
       'audioPath': 'Cantonese_Audio/Class1/Direction/0/Down.mp3'
     },
     {
       'banglaText': 'ইয়াও',
       'englishText': 'Left',
-      'imagePath': 'assets/familyPage/3.jpeg',
+      'imagePath': 'assets/images/directions/left.png',
       'audioPath': 'Cantonese_Audio/Class1/Direction/0/Right.mp3'
     },
     {
       'banglaText': 'চ',
       'englishText': 'Right',
-      'imagePath': 'assets/familyPage/4.jpeg',
+      'imagePath': 'assets/images/directions/right.png',
       'audioPath': 'Cantonese_Audio/Class1/Direction/0/Left.mp3'
     },
     {
       'banglaText': 'ঝিনি মিন',
       'englishText': 'In front of',
-      'imagePath': 'assets/familyPage/5.jpeg',
+      'imagePath': 'assets/images/directions/in_front_of.png',
       'audioPath': 'Cantonese_Audio/Class1/Direction/0/In_front_of.mp3'
     },
     {
       'banglaText': 'ইয়াপ পিন',
       'englishText': 'In the middle',
-      'imagePath': 'assets/familyPage/6.jpeg',
+      'imagePath': 'assets/images/directions/middle.png',
       'audioPath': 'Cantonese_Audio/Class1/Direction/0/In_the_middle.mp3'
     },
     {
       'banglaText': 'হাওমিন',
       'englishText': 'At the back',
-      'imagePath': 'assets/familyPage/7.jpeg',
+      'imagePath': 'assets/images/directions/at_the_back.png',
       'audioPath': 'Cantonese_Audio/Class1/Direction/0/At_the_back.mp3'
     },
     {
       'banglaText': 'কাত লেই',
       'englishText': 'Next to',
-      'imagePath': 'assets/familyPage/8.jpeg',
+      'imagePath': 'assets/images/directions/next_to.png',
       'audioPath': 'Cantonese_Audio/Class1/Direction/0/Next_to.mp3'
     },
     {
       'banglaText': 'লই মিন',
       'englishText': 'Inside',
-      'imagePath': 'assets/familyPage/9.jpeg',
+      'imagePath': 'assets/images/directions/inside.png',
       'audioPath': 'Cantonese_Audio/Class1/Direction/0/Inside.mp3'
     },
     {
       'banglaText': 'হা পিন',
       'englishText': 'Outside',
-      'imagePath': 'assets/familyPage/10.jpeg',
+      'imagePath': 'assets/images/directions/outside.png',
       'audioPath': 'Cantonese_Audio/Class1/Direction/0/Out_side.mp3'
     },
     {
       'banglaText': 'সয়ং পিন',
       'englishText': 'Upper part',
-      'imagePath': 'assets/familyPage/11.jpeg',
+      'imagePath': 'assets/images/directions/upper_part.png',
       'audioPath': 'Cantonese_Audio/Class1/Direction/0/Upper_part.mp3'
     },
     {
       'banglaText': 'হা পিন',
       'englishText': 'Lower part',
-      'imagePath': 'assets/familyPage/12.jpeg',
+      'imagePath': 'assets/images/directions/lower_part.png',
       'audioPath': 'Cantonese_Audio/Class1/Direction/0/Lower_part.mp3'
     },
     {
       'banglaText': 'গাই তাউ',
       'englishText': 'Street front part',
-      'imagePath': 'assets/familyPage/13.jpeg',
+      'imagePath': 'assets/images/directions/street_front.png',
       'audioPath': 'Cantonese_Audio/Class1/Direction/0/Street_front_part.mp3'
     },
     {
       'banglaText': 'গাই মেই',
       'englishText': 'Street back part',
-      'imagePath': 'assets/familyPage/14.jpeg',
+      'imagePath': 'assets/images/directions/street_back.png',
       'audioPath': 'Cantonese_Audio/Class1/Direction/0/Street_back_part.mp3'
     },
     {
       'banglaText': 'গাই হাও',
       'englishText': 'Street corner',
-      'imagePath': 'assets/familyPage/15.jpeg',
+      'imagePath': 'assets/images/directions/street_corner.png',
       'audioPath': 'Cantonese_Audio/Class1/Direction/0/Street_corner.mp3'
     },
     {
       'banglaText': 'তয়ই মিন',
       'englishText': 'Opposite side',
-      'imagePath': 'assets/familyPage/16.jpeg',
+      'imagePath': 'assets/images/directions/opposite.png',
       'audioPath': 'Cantonese_Audio/Class1/Direction/0/Opposite_side.mp3'
     },
     {
       'banglaText': 'ঝুত হাও',
       'englishText': 'Exit',
-      'imagePath': 'assets/familyPage/17.jpeg',
+      'imagePath': 'assets/images/directions/exit.png',
       'audioPath': 'Cantonese_Audio/Class1/Direction/0/Exit.mp3'
     },
     {
       'banglaText': 'ইয়াপ হাও',
       'englishText': 'Entrance',
-      'imagePath': 'assets/familyPage/18.jpeg',
+      'imagePath': 'assets/images/directions/entrance.png',
       'audioPath': 'Cantonese_Audio/Class1/Direction/0/Entrance.mp3'
     },
     {
       'banglaText': 'চুনয়ান',
       'englishText': 'Corner',
-      'imagePath': 'assets/familyPage/19.jpeg',
+      'imagePath': 'assets/images/directions/corner.png',
       'audioPath': 'Cantonese_Audio/Class1/Direction/0/Corner.mp3'
     },
   ];
